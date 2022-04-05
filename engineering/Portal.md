@@ -1,0 +1,82 @@
+- **The (Initial) Goal**: Create a physical display mechanism for NFTs in order for our digital identities to have tangible significance while maintaining its digital qualities as an immutable, verifiable asset that someone owns. I.e. an NFT "portal"
+- [[October 3rd, 2021]] 
+    - # Background & Context
+        - ## what is crypto uniquely capable of?
+            - digital ownership — before crypto, owning something on the internet just couldn't exist because everything posted was copy-able (NFTs)
+            - non-geopolitical financial transactions — the internet made fast, global payments possible, but financial institutions were still ultimately settling the books. crypto replaces that layer of financial trust with code (DeFi)
+            - decentralized value creation (lol) — the internet more generally made geography less of a barrier to anything (socializing, work, gaming, etc.). A big value-add for crypto is enabling us to:
+                - financialize our interactions (i.e. our existence on the internet has secure first-class access to our personal assets)
+                - personalize our digital relationships (i.e. we can create, gift, pay, talk to, etc. (whatever) directly to another person on the internet without the need for accounts on different services, asking parents for money, etc.
+                - **Taken together,** crypto directly strengthens the relationship between our digital identities + our ability to make real money (not just likes/influence/attention that we sell to advertisers). This would effectively create new mini (and extremely viable) economies / ecosystems .
+                    - Imagine a world where Joanna can actually do stuff in Roblox that someone is willing to pay for, get paid real money for it and not have to be limited by her parent's financial situation (or get permission to do 🤔) — this has its own sets of advantages + disadvantages.
+        - ## what are real problems that I am especially positioned to address/help?
+            - financial security + financial inclusion: having learned the importance/value of a dollar, I have tasted what it feels like to worry about money as a need and not a luxury
+            - managing personal/gov't debts: pops w/ workers comp/ child support debt (unpayable interest and feelings of being trapped)
+            - financial literacy education gap
+        - ## what are the core problems in the crypto industry that will help the space move "forward"
+            - accessibility: people need wallets to access "web3", Layer 1 transactions csuper expensive
+            - technical overhead: the value add of crypto/web3 is riddled with tech lingo, norms, standards that isn't immediately clear or obvious
+                - the advent of **blockchain** is a deeply technical innovation (cryptographically-secured, distributed ledger means nothing to most people)
+                - the promises of **decentralization** are hard to simplify and imagine (having things be "peer-to-peer" is cool, but as far as most people know about technology, we already have that with the internet; nobody immediately cares about the problems of the client-server model, ads have been normalized and few are constantly worrying about the dangers of surveillance capitalism)
+    - # My Path
+        - **Learn "all" things NFT**: pretty self explanatory 🤷🏻‍♂️
+        - **Create the Physical Portal**: Create a way to display an NFT in the physical world without compromising its core qualities (unique, verifiable, secure), but not necessarily implementing them
+        - **Enable Simple Verification**: Require web wallet authentication step?
+        - **Enable Secure Storage**: Experiment integrating w/ hardware wallets as a means of verifying asset ownership. Since the asset itself still lives on the blockchain, theft would require stealing the cold wallet itself and knowing the PIN to access the wallet — asset recovery would just include getting a new cold wallet and recovering it with its 24-word phrase.
+            - nice to have: establish bluetooth syncing
+        - **Enable Ownership Transfer**: if you sell an NFT you own it would essentially involve sending the asset to another's' wallet, but how would this work and/or be facilitated in a physical transaction
+        - **Identity imbalance**: If NFTs are truly valuable, how can we For the sake of our physical and mental health, I think it's important to make sure we __integrate__ our physical selves into this next step in our digital evolution rather than try to compartmentalize them.
+        - and NFTs
+        - Of course, promising connection and relationships, yet feeling [lonelier than ever.](https://www.youtube.com/watch?v=n3Xv_g3g-mA) The entire internet's business model is built on exploiting our psychological shortcomings — monetizing attention at the cost of our real-world physical and mental health.
+        - shapes our understanding of what's happening  digital identities and managing a healthy relationship between  with  lively social networks and . Cryptocurrencies, NFTs, social tokens the metaverse  at this point I'm starting to think
+        - physical NFT — take a raspberry pi, a screen and write code to verify ownership and display NFTs via a wallet sign-in
+        - imagine creating a bluetooth-enabled screen that would only display an NFT that you in fact own and displaying it in a room
+        - interesting security implications: someone would have to steal the wallet or have the secret mnemonic in order to actually have it
+        - how can we avoid "rug pulls" or make artists comfortable with the idea of digital ownership?
+        - inspired by [🔗](https://ncase.me/)https://ncase.me/trust et al.'s interactive learning style, implement a similar "game" for describing web3/decentralization (addressing the difficulty to simplify and explain decentralization)
+        - remittance payment web3 app — emphasizing accessibility (meeting people where they are), a simple UI (to minimize technical overhead) and simplicity (to make it an actually preferable solution over venmo/paypal/moneygrams of the world)
+    - # TL;DR
+        - the line between our digital and physical identities has become increasingly difficult to draw — this makes it hard for us to accurately grasp who our friends really are and what is important or even [true](https://ncase.me/crowds/).
+        - NFTs are at an interesting intersection of this social phenomenon since it's the first time our digital selves can be verified, provably unique, and valuable.
+        - My vision for this is clearly a bit overzealous for my KB4 adventure, but I'd love to start exploring it now — namely starting with bringing NFTs (and all it's attractive qualities) to the tangible world.
+    - # Brainstorming Ideas 💡
+        - investing platform similar to talent protocol — investing in people directly (ranging anywhere from venture capital to educational scholarships)
+        - visual education platform — demonstrate a series of mini apps that show off what's possible with web3 (not about teaching people how to build or anything already techie)
+            - make people wallets for them + have them email a friend to see how payments can work?
+            - let them draw/generate a random image and mint an NFT— it's randomly generated and it's theirs if they connect their own wallets?
+        - simplified wallet manager — naming/organizing them, abstracting away public addresses, maybe using their phones as a means of connecting instead of a hardware wallet
+        - Create a physical portal for NFTs in order for our digital identities to have tangible significance while maintaining its digital qualities as an immutable, verifiable asset that someone owns.
+    - # The BIG Idea 💡
+        - The development of Web3 is naturally a digital phenomenon, but the lines between our physical world and the digital worlds are constantly being blurred.
+        - The internet has given space for us to create (& curate) digital identities, at the hidden cost of our real-world selves. but define our perception of [reality](https://ncase.me/crowds/).
+        - Social media promised us connection, yet we are [lonelier than ever](https://www.youtube.com/watch?v=n3Xv_g3g-mA). Most of the internet's business model is based on monetizing our attention rather than the value actually delivered. And conception of what's true is often dictated more [by what our newsfeed spotlights](https://ncase.me/crowds/) for us than, well, reality.
+        - NFTs are at an interesting intersection of this social phenomenon since it's the first time our digital selves can be verified, provably unique, and valuable. It has the potential to both give birth to an entirely new world and exacerbate the neglect we've shown to our physical selves.
+    - # Skill Building
+        - Solidity & smart contract development
+        - Web3 sites: IPFS, ENS domains
+        - Tinkering with a raspberry pi + bringing NFTs to the physical world (feat. ledger)
+        - making my own art NFTs (drawing is fun! and I can mesh these two worlds)
+- [[October 16th, 2021]]
+    - [[Everything is a Remix]]
+    - ## Programmable Money is The Next "Inevitable Innovation"
+        - "Crypto" as we know it stands on the shoulders of giants:
+            - [hash cash](https://en.wikipedia.org/wiki/Hashcash) → Bitcoin — proof-of-work system to prevent email spam and denial-of-service attacks (which itself was founded on an earlier idea to require a user to solve a moderately hard, but not intractable problem)
+            - git → IPFS — content-addressed hash, immutable history of state, etc.
+            - Karl Marx → decentralization of value / "ownership" — owning the means of production, etc. -- might be interesting to consider this thread when writing [[Redefining Ownership]]
+            - smart contracts (Nick Szabo) → Ethereum (and other smart contract platforms)
+        - The internet itself was similar and we ran into an interesting new problem: the pace at which we innovated, scaled and affected the lives of millions of people was faster than our legal system could understand let alone handle.
+        - FAANG (alongside tons of other) tech companies have rewired us
+            - As individuals, Google has shaped the information-architecture of our brains (see Google effect), Facebook our desire/need for attention (see social media's effect on teen mental health, body image, likes as a form of social currency), Amazon/Netflix our desire/need for on-demand dopamine and Apple whose smartphones have effectively become extensions of ourselves (see research on smartphone addiction, human-computer interaction, sense of identity including our phones, etc.).
+            - As a society, Google social interactions (i.e. algorithmic bias, echo chamber, etc), Apple our dependence on Amazon/Netflix created unprecedented
+        - we believe that ideas are property and we are obsessively territorial when we feel that property belongs to us. Our laws then indulge this bias with ever broadening protections and massive rewards.
+        - ...
+        - the original purpose [the copyright act of 1790] is titled **the act for the encouragement of learning..**  yet the exclusive rights, these acts introduced were a compromise for a greater purpose. The intent was to better the lives of everyone by incentivizing creativity and producing a rich public domain — a shared pool of knowledge open to all ...
+        - In my last brainstorming session, I did some thinking around what "crypto is uniquely capable of solving" and got some interesting tidbits that I think are worth revisiting:
+        - digital ownership — before cryptocurrencies / blockchain, owning something on the internet just couldn't exist because everything posted was copy-able (NFTs)
+        - Per a conversation I had with a KERNEL-er (Daniel), I realize this runs even deeper. Real world art exhibits will often ask for proof of a chain of custody to ensure that the artwork being sold isn't forged or bought on the black market. While there are definitely problems that crypto art / NFTs can address, I also think there's a relevant ethos shift that needs to be addressed.
+        - Namely, the idea of "unique ownership" — declaring that something is "mine, and I can prove it" — is somewhat antithetical to the crypto idealists may think of as "open source, modular, collective, etc.".
+            - non-geopolitical financial transactions — the internet made fast, global payments possible, but financial institutions were still ultimately settling the books. crypto replaces that layer of financial trust with code (DeFi)
+            - accessibility: people need wallets to access "web3", Layer 1 transactions csuper expensive
+            - technical overhead: the value add of crypto/web3 is riddled with tech lingo, norms, standards that isn't immediately clear or obvious
+                - the advent of **blockchain** is a deeply technical innovation (cryptographically-secured, distributed ledger means nothing to most people)
+                - the promises of **decentralization** are hard to simplify and imagine (having things be "peer-to-peer" is cool, but as far as most people know about technology, we already have that with the internet; nobody immediately cares about the problems of the client-server model, ads have been normalized and few are constantly worrying about the dangers of surveillance capitalism)

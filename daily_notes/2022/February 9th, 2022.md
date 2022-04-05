@@ -1,0 +1,9 @@
+- for both good days and bad days (can't have one without the other), freedom from obligations / ownership over my time #gratitude
+- #Reading
+    - continue [[Understanding Dialectical and Historical Materialism]]
+    - start reading [[Mental Models]]
+- #Writing
+    - drafting [[Redefining Ownership]]
+- #Engineering
+- #Investing
+    - Wrote my [ETH staking primer](https://www.notion.so/Second-Gen-Investing-2666bb31f9a84799bc2193a9f71f090e) for [[Second Generation Group, LLC]]

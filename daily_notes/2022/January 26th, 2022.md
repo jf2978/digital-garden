@@ -1,0 +1,8 @@
+- the people in my life that remind me I'm not alone #gratitude
+- #Reading
+    - [[Against Decentralised Finance]]
+- #Writing
+    - [[Crypto Theses]]
+    - [[My Mailchimp Resignation]]
+- #Engineering
+- #Investing

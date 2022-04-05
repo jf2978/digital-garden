@@ -1,0 +1,3 @@
+- # Before I Do This
+    - I need to write more [[Second Generation (Newsletter)]] both to really establish my own voice/audience, and to act as a platform by which I can invite people to talk
+- I've always wanted to have a podcast for these thoughts -- bringing interesting first-gen voices to a show, amplifying those that take traditional, unconventional, and interesting paths from where they started

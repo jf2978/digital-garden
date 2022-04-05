@@ -1,0 +1,26 @@
+- ## [Link](https://a16z.com/2018/08/21/crypto-open-source-evolution-libraries-services/)
+- ## Notes
+    - ### Services vs. Open Source Libraries
+        - the github model is a nice one here
+        - what's important to note is that code becomes powerful when it's instantiated. E.g. when a large company uses MySQL, the library backing it becomes that much more of an important contributor to the value chain. However, Since it's the company that instantiates that database, manages the deployments, etc. they get to hoard all the value
+        - So there's a problem with power distribution in the open-source world.
+        - What's interesting with something like Ethereum (which kind of calls itself the "world's computer") is that we have one canonical deployment and everything that wants to use that open source code, just references that already-deployed thing.
+            - In other words, these libraries/tools are empowered to act more like services themselves.
+            - Since it's easier (and more valuable) to build on top of that canonical representation, attribution to that open source project is built-in.
+        - **Question for me to me**: I wonder if there's an interesting parallel between depending on that "one canonical" representation and something like a singleton pattern.
+            - I could see there being a really interesting and potentially powerful infrastructure layer built out on top of Ethereum that essentially manages multiple versions of the shared state that is the blockchain. Or maybe L2s/sidechains could essentially serve this purpose?
+            - While this on the one hand feels like an unnecessary intermediary, I think only time will tell given Ethereum's limited scalability. 
+    - ### Why build a thing without guaranteeing proprietary control over the data/assets you create?
+        - classic example is the LinkedIn API -- they build a valuable API for recruiters, others built on top of it, but they eventually just discontinued it and businesses that built on top of failed. Having that control over ones primary asset (data) feels like the whole point, no?
+        - > (Jesse) It's counterintuitively the opposite in web3. The value of the service is dependent on its 3rd parties. The more you enable services to build on top of your thing, the more valuable your thing can become.
+        - We think about Ethereum (and other blockchains) as the road system. No need to rebuild the roads, you can just use them and build stuff around those roads.
+        - The reason incentives are aligning around collaboration is kinda like city government. THe city provides infrastructure in hopes that other people build valuable business atop of the roads, and the city can then collect taxes
+            - **Me to me**: I think this is an interesting analogy, but I think a key difference (that I think is important) is the built-in efficiency advantages we have with code > the bureaucratic behemoth that is government. Both are public goods that in essence "tax" those that build on top of it (and at least gas fees make a little more practical sense too), but Ethereum itself and everything on top of it can iterate at a much more formidable pace.
+        - Because people can converge on that canonical instance, there's attribution built into the system as well. So building good infrastructure is hard, but potentially exponentially more valuable because of the long potential value chain it has.
+        - Fun take with respect to the creator economy
+            - > this also applies to creative works and their natural lifecycle of being remixes. Its easier than ever to iterate and be inspired by original works while there are also huge incentives to making original works (since you can inspire others and have value be attributed to you that much more)
+    - ### Why would this idea work now if it didn't for Ted Nelson's Xanadu?
+        - Interesting related read for another time: [[The Curse of Xanadu]] 
+        - blockchain is sort fothe reincarnation fothat architecture in may ways.
+        - The vision for Xanadu had no shared state. They had the links but they were forcing creating copies and it got annoying rather than helpful
+        - His work definitely contributed and was a big inspiration for us at [[Mediachain]], but we think there are some key things that we have now that it didn't

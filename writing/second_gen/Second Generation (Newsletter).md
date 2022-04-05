@@ -1,0 +1,10 @@
+- [Substack](https://secondgen.substack.com/welcome)
+    - Second Generation aims to capture my evolving thoughts on wealth in every meaning of the word with first-generation college graduates — from developing healthy personal finance habits to understanding the tech industry’s role in shaping the wealth-knowledge gap.
+- Posts
+    - [[Join Second Generation]] #published
+    - [[Figuring Out What We Value]] #published
+    - [[Wealth From the Ground Up]] #published
+    - [[Money Flows]] #published #financialsecurity
+    - [[A Quick Update From Me]] #published #personal
+    - [[About Page (Updated)]] #published #personal
+    - [[Where Intention Meets Risk]] #draft

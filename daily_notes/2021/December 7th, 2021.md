@@ -1,0 +1,7 @@
+- honey tea for sore throat #gratitude
+- #Reading
+- #Writing
+- #Engineering
+    - rejected from [[Substack]], but it's okay! I'll bounce back
+- #Investing
+    - diving deep into crypto taxes on [[Koinly]] -- definitely still need to do some manual updating so my cost basis is accurate, but feels helpful!

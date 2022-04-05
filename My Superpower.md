@@ -1,0 +1,4 @@
+- not sure what this will be used for, but I want to make space for outlining what I think I'm especially good at -- rather than trying to be like others (be it social media or even just some idealized version of myself that I keep comparing myself to) I want to really **recognize** who I am and find ways to best leverage that
+- Usually it's easier to outline who I'm not:
+    - I'm not a hardcore side hustler -- I care too much about having control over my days and want to have space for more important shit. Ideally, I succeed without sprinting and "sacrificing my 20s"
+    - I'm not a pure-bred engineer -- I like building stuff, but I also don't think technology in and of itself is exciting to me. To me, context matters (who I'm building for, why I'm building it, etc)

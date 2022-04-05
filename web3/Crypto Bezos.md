@@ -1,0 +1,1 @@
+- ## [Link](https://www.notboring.co/p/crypto-bezos)

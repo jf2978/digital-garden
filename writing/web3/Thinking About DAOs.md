@@ -1,0 +1,26 @@
+- ## Resources
+    - [Awesome Doc About How You Can Practically Work For a DAO](https://docs.google.com/document/d/1EiZY_6vIHG0gVE-XFdoYhHSMQ5vmnJCptaSuTGkyAGc/edit)
+- ## Ideas
+    - ### (DAO) QuestBridge-Inspired Community That Wins Together
+        - **Platform To Share Our Ongoing Stories** (Self-Reflection, Community-Ethos)
+        - **Social Events** (Recurring Social Gatherings, Impromptu Meetups When Travelling, etc.)
+        - **Volunteer & Job Matching** (Community-Participation)
+        - **Wealth Sharing Mindset Built-In** (Low-profit, broad-sharing business)
+        - **Mission** (Who we are and who we're not)
+            - **NOT** "pay to enter" since that would sort of go against the community we're trying to cultivate (e.g. FWB, BAYC)
+            - **NOT** a "contribute first, then maybe get paid" community -- time isn't a luxury everyone people can afford and it's an idea that can be especially uncomfortable for people from working class backgrounds
+            - **IS** a "participate to earn" token community. "Participation" would be weighed by how "active" members are, diminishing weight over time since last meaningful contribution means could be defined in something like an [LLC Operating Agreement](https://www.investopedia.com/terms/l/llc-operating-agreement.asp) and could potentially include: 
+                - helping organize social events
+                - giving talks at larger events
+                - sharing/publishing your story on some semi-private platform (i.e. adding to the larger collective narrative)
+                - attracting sponsors, grants, etc.
+                - selling merchandise
+                - building tools/services that align with the mission
+                - job matching fees (paid by the job provider)
+            - **NOT** funded by venture capital -- VC is a very valuable tool for bootstrapping capital, but from within the confines of a "Social/Service DAO" promising profits/tokens inevitably becomes a dicey constraint and dilutes ownership.
+            - **IS** funded by profit sharing. A token "value" can start at zero, but represent net profits from multiples revenue streams. This can be a fungible $FGLI token internally, but can also be paid out in USD see: [[Opolis]]
+            - **NOT** a non-profit organization in the traditional sense -- opaque social capital investment vehicles with high start-up and maintenance costs.
+            - **IS** a lightweight, community-powered business with transparent financials, salaries, etc. I.e. a flexible worker cooperative that focuses less on having "ownership" (that would require constant employment/participation, and equitable ownership exit strategies) and instead be an opt-in participation business whereby people can comfortably contribute to a mission they care about, get paid for it, but not having to fully become a worker-owner.
+            - **NOT** a one-token-one-vote social governance system -- skews toward benefitting early-adopters, the already wealthy few, etc.
+            - **IS** a quadratic voting social governance system -- a still imperfect, but conscientious approach to giving more voting power to heavy contributors while curbing the potential abuse that comes with one-token-one-vote systems.
+        - 

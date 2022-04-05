@@ -1,0 +1,2 @@
+- ## [Link](https://www.kaplanlearn.com/education/offeringdashboard/index/6490b6ac5b7a5eed70ea52b1f5caa1ae)
+- [[(Kaplan) Uniform Investment Adviser Law Exam Manual]]

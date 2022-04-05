@@ -1,0 +1,5 @@
+- # Definition
+    - > an issuer that would be an investment company, as definited in the section 3 of the [[Investment Company Act of 1940]], but for section 3(c)(1) or 3(c)(7) of that act
+    - A 3(c)(1) issuer is one whose outstanding securities are beneficially owned by not more than 100 pesrons and which is making/propose making public offering of its securities. I.e. its private because it's a contained small number of people and a fund because each are sort of like "shareholders" of the securities held
+        - An interesting angle worth understanding and exploring for [[Running My Own ETH2 Validator Node]]
+    - A 3(c)(7) issuer is one whose securities are owned exclusively by persons who, at the timer of acquisition of such securities, are qualified purchasers ($5M+ in investments for individuals, $25M+ for businesses)

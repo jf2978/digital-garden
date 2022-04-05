@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "978c3ff7dc27a3ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "4039f0f41bcafb5d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "glossary/asset ownership.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0944ba4eb656cdf0",
+    "type": "split",
+    "children": [
+      {
+        "id": "fdafd8e5a0f50003",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d61006e9c2e3d442",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "26daea9b1963b16e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6ffea31e3f2d57a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "f094b2f5f4ed5314",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d35b243c563f9a65",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "glossary/asset ownership.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4039f0f41bcafb5d",
+  "lastOpenFiles": [
+    "glossary/asset ownership.md",
+    "glossary/administrator.md",
+    "My Superpower.md",
+    "Koinly.md",
+    "writing/What Do I Want In A Job?.md",
+    "_private/Becoming An Accredited Investor.md",
+    "conversations/Jeff <> Jesse.md",
+    "glossary/Investment Counsel.md",
+    "Regulation of Investment Advisers, Including State-Registered And Federal Covered Advisers.md",
+    "writing/web3/Redefining Ownership.md"
+  ]
+}

@@ -1,0 +1,6 @@
+- my physical health (was sick over the past few days) #gratitude
+- #Reading
+- #Writing
+- #Engineering
+    - Finally taking a stab at contributing to some OS projects via Gitcoin. First bounty: [[Add Unit Test to harmony-one/core packages]]
+- #Investing

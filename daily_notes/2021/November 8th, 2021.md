@@ -1,0 +1,8 @@
+- energized mornings, cafe bustelo (others just arent as good), colors of fall trees are calming! #gratitude
+- #Reading
+- #Writing
+    - Digging a little more into [[Superfluid]] and 1:1 w/ Fran
+- #Engineering
+    - started a new repo for my [[Resume]] last night and pushed to GH (final touch ups today): https://github.com/jf2978/resume
+        -  since its a JSONResume, I'll probably make it a gist and host it using the public registry e.g. https://registry.jsonresume.org/thomasdavis
+    - 

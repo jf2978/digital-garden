@@ -1,0 +1,11 @@
+- my team at Mailchimp (I've learned a lot and enjoyed hanging with the people on my team), time with my family (I have to remind myself that I'm doing this for them sometimes), having the time/money to go to therapy #gratitude
+- #Reading
+    - [[Crypto Community Building Playbook]]
+- #Listening
+    - [[Crypto and the Evolution of Open Source]]
+- #Writing
+- #Engineering
+    - MC work
+    - figure out why ETH node server closed on me re: [[Rocket Pool]]
+    - think and brainstorm how I can make the best use of my [[ENS]] domain:
+- #Investing

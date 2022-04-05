@@ -1,0 +1,9 @@
+-  swallow cafe work sessions, a good night's sleep, meals that don't bog me down afterwards #gratitude
+- #Reading
+    - the (in)famous [[My first impressions of web3]] by Moxie Marlinspike
+    - [[Building an Investment Thesis]]
+- #Writing
+    - [[Web3 Will Not Replace Web2]]
+    - [[My Financial Roadmap Post-Mailchimp]]
+- #Engineering
+- #Investing

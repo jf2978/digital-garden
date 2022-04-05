@@ -1,0 +1,10 @@
+- sleeping in a little, sunny sweater weather (the best), having a stable profession (truly a privilege) #gratitude
+- #Writing
+    - what's [[My Superpower]] 
+    - Reflecting on [[What I Value In An Employer]] 
+- #Reading
+    - from Brian Armstrong's tweet: [[Peter Thiels CS183 Startup Class 18 Notes (Blake Masters)]]
+        - interesting potential read found in that ^ rabbithole: [[Zero to One]]
+        - also knew about this before and still want to do more research about it: [[Ocean Protocol]]
+- #Engineering
+    - cool idea that potentially combines my interests in handball (personal, athletic, NYC roots) x tech (website, merchandise store) 

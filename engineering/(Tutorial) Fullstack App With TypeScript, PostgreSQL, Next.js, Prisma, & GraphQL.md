@@ -1,0 +1,30 @@
+- ## Resources
+    - [Part 1](https://www.prisma.io/blog/fullstack-nextjs-graphql-prisma-oklidw1rhw)
+    - [Part 2](https://www.prisma.io/blog/fullstack-nextjs-graphql-prisma-2-fwpc6ds155)
+- ## Notes
+    - > Next.js uses file-based routing, where each file inside the pages directory is a route.
+    - ### [Prisma Things](https://www.prisma.io/docs/concepts/components/prisma-schema)
+        - A **data source** determines how Prisma connects your database, and is represented by the [datasource](https://www.prisma.io/docs/reference/api-reference/prisma-schema-reference#datasource)  block in the Prisma schema
+        - A **generator **determines which assets are created when you run the prisma generate command. I.e. what __clients __ should be generated for the specified data models
+        - A **model **represent the entities of your app domain, map to tables (for relational dbs like Postgres) and when used with TS, these are type-safe definitions of our models.
+        - We can also use env variables from within our prisma schemas. 
+            - > Using environment variables in the schema allows you to **keep secrets out of the schema file** which in turn **improves the portability of the schema** by allowing you to use it in different environments
+        - Use [db push](https://www.prisma.io/docs/guides/database/prototyping-schema-db-push#prototyping-a-new-schema) to prototype schema changes in a dev environment (and potentially catch data loss before live migrations)
+    - ## JS/TS Refreshers
+        - Javascript has lots of asynchronous functionality and it does this specifically through its concept of `Promises` -- which are just objects for encapsulating asynchronous code
+            - The idea is simple. When we want to do a thing that can be asynchronous (e.g. a slow API call that we don't want to block on), we wrap that call in a `Promise` specifying what to do on success (we say the promise is "resolved") or fails (promise is "rejected")
+            - There are a couple of ways to leverage this idea, but the most useful is using the `async` and `await` keywords to simultaneous speed up execution (since the promise dependencies are explicit and independent calls can still execute) and reads a bit more like synchronous code. 
+    - ### [REST vs GraphQL](https://www.prisma.io/blog/fullstack-nextjs-graphql-prisma-2-fwpc6ds15)
+        - REST
+            - The flexibility with REST -- being able to modify resources (entities) based on the request type (CREATE, UPDATE, PUT, DELETE) and the endpoint itself -- is nice, but this also means that every REST API is different. APIs designed this way require good documentation, learning curve for every engineer developing it, etc.
+            - As more endpoints are created, over/under fetching data becomes an issue -- it's hard to tell exactly what data you'll need in the future, but with REST you have 2 choices to fix it. Either you add more endpoints or you make an existing endpoint more flexible (i.e. which may fetch too much or too little data depending on the case)
+            - Also these entities aren't really type-safe (you just listen to the docs)
+        - GraphQL
+            - Define a data contract at a schema level (build types similar to what we did with Prisma, specify `Query` and `Mutation` types independent from each other)
+    - ### Apollo <> Micro <> CORs
+        - [Apollo ](https://www.apollographql.com/docs/) is essentially a GraphQL server library. As per their website: 
+            - > Apollo is a platform for building a unified **graph**, a communication layer that helps you manage the flow of data between your application clients (such as web and native apps) and your back-end services. At the heart of the graph is a query language called **GraphQL**
+        - [Micro](https://www.npmjs.com/package/micro) is an async HTTP microservices library. I.e. its a very lightweight http server optimized for microservices, serverless functions, containerization, etc.
+        - micro-cors is a [Cross-Origin Resource Sharing](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS) "(CORS)" middleware used to extend Micro and essentially useful in our case so that Apollo Studio -- a live graphQL sandbox tool for Apollo Servers very similar to graphiQL that Gatsby users -- can talk to  our app.
+- ## Follow Up Resources
+    - [Prisma's Query Engine (Technical Deep Dive)](https://www.prisma.io/docs/concepts/components/prisma-engines/query-engine)

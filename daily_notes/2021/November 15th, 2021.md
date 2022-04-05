@@ -1,0 +1,12 @@
+- cozy sleep, healthy breakfasts #gratitude
+- #Reading
+    - [[Reserve]] [tweet](https://twitter.com/reserveprotocol/status/1460198477061832704) about mainnet launch -- guess I should accelerate on reading [[Reserve Whitepaper v2]] at some point this week
+- #Writing
+    - interesting [tweet](https://twitter.com/Nogoodtwts/status/1460308512219799555) that I want to reply to when I have time - crypto x personal finance; definitely an interesting opportunity to bridge my thoughts on crypto with what I've written in [[Second Generation (Newsletter)]]
+- #Engineering
+    - {{[[DONE]]}} focus on my actual job because it's monday and I didn't do anything last week
+    - {{[[TODO]]}} start [[Grokking the System Design Interview]]
+    - {{[[DONE]]}} start prep for my [[SWE (Technical) Behavioral Interview]]
+- #Investing
+    - Gemini LUNA is also wrapped ugh, gotta use the bridge and pay gas fees (why is it so hard to get native LUNA/UST)? Will do this once funds settle
+- 

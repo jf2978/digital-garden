@@ -1,0 +1,2 @@
+- A bird's eye view of what I think we do well and could be doing better as a cross-functional product team
+- 

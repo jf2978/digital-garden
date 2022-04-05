@@ -1,0 +1,19 @@
+- ## [Link](https://union.finance/)
+- An super interesting protocol / web3 app within [[Variant]]'s portfolio that's trying to build web3 infrastructure to support a permission-less, non-asset-backed credit system.
+    - This would be a cool app to contribute to given Jesse/Geoff's comments about maybe looking into how I can help support Variant portfolio companies. cc: [[Jeff <> Geoff]] and [[Jeff <> Jesse]]
+- As with most projects, I want to dig into and understand what they're doing (put into my own words) and reach out if I think I can help them in anyway
+- # Ways I Can Contribute
+    - bug fix: after metamask connection, I need to click connect again before the app opens (though looks like their site code is closed source)
+    - help update some of their documentation: [developer FAQs](https://unionfinance.gitbook.io/docs/overview/developer-faq)
+    - address some L2 concerns and understanding of the risks here with respect to credit/lending/borrowing (re: what I've seen in the feedback channel in discord)
+    - write a technical blog post about how to create a simple app using the protocol. I think [this section](https://unionfinance.gitbook.io/docs/overview/developer-faq) in the docs could use some love with richer details and examples backing up how Union can be used as a primitive. **It's hard to see these protocols as building blocks from the outside looking in without imagining what could be built on top of it**.
+    - [[Naty's Desserts]] example re: I think of how this can help the loved ones in my life that are running small businesses. Take [[Naty's Desserts]] who run their Dominican cake business out of their home. Naty could rent a space and produce so much more than she's currently able to bake in her regular oven or store in their family fridge. Rather than collateral, she could instead provide "proof of profit" so to speak with her venmo transactions, material receipts, etc. acting as that proof.
+        - As it stands now, there's a lot of technical overhead for someone like Naty. She doesn't know anything about crypto wallets, let alone collateralizing with DAI on a web3 app. **Sadly, this probably isn't cost effective on L1 alone, but putting a pin in this for the future**
+        - A core utility app built on top of Union could facilitate (very) small business credit lines 
+            - a) onboard to crypto via some onramp: e.g. creating a wallet (say Coinbase Wallet since it's the most familiar UI), outline steps to buying DAI (via some post/documentation) 
+                - this is key if we want to really secure a market where the need is at its highest -- among small businesses with barely enough to keep their operations afloat (**let alone dabble in crypto which, let's be honest, often applies to already-technical-and-well-paid individuals.**)
+            - b) surface a minimal "profile" so that businesses can make their case: what are they selling, how are they making money, how they can contact you, etc.
+            - c) offer a straightforward UI for getting 3 sponsors, i.e. "vouches": if Naty finds small investors looking to get interest on a loan (based on an on-chain protocol rather than word of mouth)
+- # Related Reading
+    - [[Introducing Union]]
+    - [[Why Unsecured Credit Matters]]

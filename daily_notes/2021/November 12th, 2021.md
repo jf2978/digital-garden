@@ -1,0 +1,10 @@
+- having a clean house, long showers, the smell of christmas trees #gratitude
+- #Reading
+    - [[Reserve Whitepaper v1]]
+    - [[Intro to Terra]] and the [[Terra Whitepaper]]
+    - revisiting [[What Do I Want In A Job?]]
+- #Writing
+- #Engineering
+    - look into contributing to [[Superfluid]] the DAO global hackathon seems to have deadlines too soon (and I'm not so sure I have the time to really contribute), so I'll probably just do some digging into the repo
+- #Investing
+    - 

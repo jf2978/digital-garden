@@ -1,0 +1,14 @@
+- started using Roam! Watched some of the intro videos, seems cool, going to try to import some of my thoughts from notion into this instead and see where that takes me
+- #Reading
+    - [[Reserve]] white paper (2019 version)
+    - [[The Digital Self: Through the Looking Glass of Telecopresent Others]]
+- #Writing
+    - nothing new, but importing over existing [[Second Generation (Newsletter)]] pieces over to this
+    - cool idea Michelle brought up: talk about [[Redefining Ownership]] from the perspective of a (soon-to-be-former) Mailchimp employee on [[mirror.xyz]]
+    - importing over some of my notes on [[KERNEL]] from notion
+- #Engineering
+    - thinking about starting a new [[Personal Website]]
+        - maybe a mix of both the "classic" personal website things (looks pretty, tells my story) while also experimenting with some web3 components (linking to my twitter/.eth address, accepting donations via crypto & smart contract-powered charity cut (50% of this tip goes toward this bucket of non-profits and in an ideal world, you can track exactly how donated money is being spent)
+    - also I should probably brush up my [[Resume]], thanks Mailchimp :(
+- #Investing
+    - experimenting w/ [[DeFi]] lending (mainly stablecoins because that whole impermanent loss thing seems scary) -- but I don't think I have the time/energy to tinker with this today

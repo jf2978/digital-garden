@@ -1,0 +1,9 @@
+- early morning laundry, having the option of ordering breakfast, silk sonic #gratitude
+- #Reading
+- #Writing
+- #Engineering
+    - do some minimal pre-vacation MC work
+    - {{[[DONE]]}} finish applying to [[Bloomberg]]
+    - way more [[Technical Interview]] prep
+- #Investing
+    - eventually look into [[Choosing a Polkadot Validator]]

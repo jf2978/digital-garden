@@ -1,0 +1,7 @@
+- calm app (how to meditate series), cozy bed #gratitude
+- #Reading
+- #Writing
+- #Engineering
+    - talk with Jean from [[Range]]!
+- #Investing
+    - deadline to figure out my 401k stuff for MC

@@ -1,0 +1,12 @@
+- xmas season nostalgia (feat. conversation w/ mima about the smell of pine trees lol), great sunny sweater weather again, PTO where I have no plans #gratitude
+- #Reading
+    - [[A Declaration of Interdependence of Cyberspace]] not 100% sure what to make of the specific content just yet, but signed in support of the ethos it emanates.
+- #Writing
+- #Engineering
+    - publishing my [[Resume]]
+    - prepping for R1 interviews: [[What Do I Want In A Job?]]
+    - [[Exquisite Land]] !! got me a coin, excited to participate and draw some stuff
+- #Investing
+    - lots to learn about leveraging [[DeFi]] within the Terra ecosystem re: [[Anchor Protocol]]
+    - [[Liquidity, Liquidity, Liquidity (Stellar Foundation)]]
+    - [[Behavior of Liquidity Providers in Decentralized Exchanges]] 

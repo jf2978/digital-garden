@@ -1,0 +1,16 @@
+- fall morning walks (prospect park), sleeping like a baby, and fun crypto trading #gratitude
+- #Reading
+    - making more progress [[Reserve Whitepaper v1]]
+- #Writing
+    - Ethereum gas fees should be tax deductible -- would be interesting to explore this (maybe post it on [[mirror.xyz]])
+        - tax incentives are a form of government retroactive sponsorship
+        - why are other things tax deductible? what has this done to people's financial relationship with these things & what has this done to gov't's relationship with said industry
+        - might help the establishment of ethereum as a public good rather than some volatile asset for hedge funds to jerk off to
+        - would give back to people & incentivize them to leverage the tech
+        - would be an opportunity for governments to build relationships with tech (as opposed to ignoring tech until it gets too big, then regulating the shit out of it, but not in actuality doing much because they'd be depending on big tech for a bunch of other shit)
+        - vision: a world where gov't is an important side of the equation: yin/yang of technology/innovation meant to
+- #Engineering
+- #Investing
+    - boring employment stuff
+        - {{[[DONE]]}} figure out [[401k vs. Traditional IRA]] to choose what to do at Intuit
+        - {{[[TODO]]}} collect documents for HSA distribution change & HSA rollover to Intuit

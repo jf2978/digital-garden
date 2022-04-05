@@ -1,0 +1,40 @@
+- # Website Infrastructure
+    - ## TODOs
+        - {{[[TODO]]}} create next js project and install [chakra ui](https://chakra-ui.com/guides/getting-started/nextjs-guide)
+        - {{[[TODO]]}} setup netlify next js app & continuous deployment
+        - {{[[TODO]]}} research & install the "best" gatsby theme to pull data from Roam Research
+        - {{[[TODO]]}} research & install the "best" animation library (prev. used Framer Motion)
+        - {{[[TODO]]}} design & outline page transitions for smooth navigation through the site
+        - {{[[TODO]]}} research & install the "best" way to pull substack post data
+- # Homepage
+    - ## TODOs
+        - {{[[TODO]]}}  add webpage sketch
+- ## Page Components
+    - navigation bar (global) stuck to the left side of the site
+    - bio
+        - cartoon-ish / sketched version of myself -- inspired by derek lasher's pfp on slack
+            - engineering / web3 twist: mint it as an NFT, put it on some marketplace / my wallet
+        - blurb: "Hey I'm Jeff -- full-time software engineer, part-time crypto enthusiast, writer, and handball player."
+        - social media icons: github, twitter, linkedin
+- ## Interactions
+    - Jeff -> animates from full name on start and expands again on hover
+    - image ->
+    - faded social media icon -> canonical social media color
+    - navigation tabs -> SVG icons on hover "draw" effect
+        - home (house)
+        - blog (paper/pencil icon)
+        - notebook or digital garden (pencil/tree)
+        - contact ("@" icon)
+- # Blog (Second Generation)
+    - ## TODOs
+        - {{[[TODO]]}} add a webpage sketch
+        - {{[[TODO]]}} make a figma account & import [this](https://www.figma.com/community/file/778763161265841481) design kit
+    - ## Page Components
+        - blog post preview card
+            - title & subtitle
+            - image
+            - First 25 words or something -> link to actual substack article
+- # Notebook (Digital Garden)
+    - ## TODOs
+        - {{[[TODO]]}} install gatsby-digital-garden to get something similar to [this demo](https://mathieudutour.github.io/gatsby-digital-garden/)
+            - only caveat worth iterating on is how to cleanly collapse the pages as they stack (I imagine a)

@@ -1,0 +1,10 @@
+- #Reading
+    - [[Mental Models]]
+    - [[How To Make Smart Decisions Without Getting Lucky]]
+    - 
+- #Writing
+- #Engineering
+    - reflect on past interviews (what went well, what didn't, what did I learn about myself): [[Substack]], [[Range]], [[Plaid]]
+    - for when I want to up the security of my node: [[How to Secure a Linux Server]]
+    - learn about & deep dive for interview with [[CoinTracker]]
+- #Investing

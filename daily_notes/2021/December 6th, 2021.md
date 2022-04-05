@@ -1,0 +1,12 @@
+- watching TV when you really just need a laugh, being able to not take myself so seriously, the smell of a real christmas tree #gratitude
+- #Reading
+- #Writing
+- #Engineering
+    - virtual onsite for [[Substack]]
+        - It went well despite it could've being better! I was nervous and honestly knew everything that was thrown at me and choked a little bit.
+        - BUT I'll be alright regardless of the outcome
+        - reminder to myself again from [[December 5th, 2021]] I'm a damn good engineer and a single set of interviews does nothing to make that waver. Of course, I want to make things work and want to stop recruiting and "get it all over with", but I guess this is just part of my process. It's a lego block to a mini-world that I can't quite make out yet. I'm used to staying humble but sometimes I actually have to remind myself that I'm also pretty freaking cool #gratitude
+        - rejected from [[Plaid]] minutes after my Substack interview lol
+- #Investing
+    - almost bought the dip but CB Pro failed me smh
+    - I finally have all the PC Parts I need to [[Running My Own ETH2 Validator Node]]!! I'm hyped

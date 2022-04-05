@@ -1,0 +1,15 @@
+- being able to pick right back up from old friends, quiet in my own home #gratitude
+- #Reading
+    - learn more about [[Olympus DAO]]
+- #Writing
+    - [[Crypto Theses]]
+    - The mindset shift of the web3 tech stack. 
+        - **Open-Source Software**: code becomes powerful when its instantiated and shared state platforms like Ethereum make it possible to "solve a problem once" re: [[Crypto and the Evolution of Open Source]]
+            - Open Software Incentivizes Originality
+            - Normalized Deployments
+            - "Exhaustive" Pros/Cons of OSS including what DAOs are trying to solve [[It's All Coordination]]
+    - draft [[Redefining Ownership]]
+    - update my understanding of [[Reserve]] given the new protocol, its potential and similarities between it and [[Olympus DAO]] (if any)
+- #Engineering
+    - write up about understanding & optimizing my internet network for [[Running My Own ETH2 Validator Node]]
+- #Investing

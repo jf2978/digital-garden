@@ -1,0 +1,10 @@
+- my ability to handle stress somewhat well (I don't love it, but am glad I typically don't panic when too much is on my plate), healthy food I feel good eating, [[Rocket Pool]] devs for being really good about announcing node operator changes (helps me trust I'm being supported), also [[Todoist]] is pretty dope #gratitude
+- #Reading
+    - (catching up)
+- #Writing
+    - [[Crypto Theses]]
+    - interesting thought: what can we do to prevent asset lock up on chains like Ethereum? Inspired by the [[Rocket Pool]] team's [efforts ](https://discord.com/channels/405159462932971535/405163979141545995/935402653683449916)to find the owner of a validator address whose ETH will be locked up if they don't finish staking their ETH
+- #Engineering
+    - look into recent lighthouse ETH2 client [release](https://github.com/sigp/lighthouse/releases/tag/v2.1.1) + make changes to my smartnode stack
+- #Investing
+    - hodl lol

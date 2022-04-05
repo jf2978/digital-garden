@@ -1,0 +1,2 @@
+- I don't have too much more to add to their description/documentation on [crowdfunding](https://mirror.xyz/dashboard/guide/crowdfunds)
+- 

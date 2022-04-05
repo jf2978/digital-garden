@@ -1,0 +1,24 @@
+- DM [@awkweb](https://twitter.com/awkweb)
+    - [tweet ](https://twitter.com/awkweb/status/1453943463431475209)that caught my eye about ownership / Mailchimp
+    - has a focus on building >> thought leading that I appreciate
+    - works at mirror, be sure to ask about how I can contribute (I'm effectively an open source newbie and looking to jump ship)
+    - ## Notes From Our Conversation
+        - looking to build in crypto some more, known about it since 2017 but haven't built anything substantial in the space yet -- would love to just chat, get to know stuff at mirror, what do for job pls?
+        - foundation (nft), narrow defi -- mirror is rtying to build tool (coherent), being able to fund this new open source world. publishing is like the weedge into the mainstream content creation
+            - snapshot (governance tool)
+        - there's a "Core team" aspect, there's durability in the role as a coontributor
+        - making something better one off = regular open source
+            - do it repeatedly, and you will be in 
+        - prev. Patreon experience -> they kinda got caught an awkward positiono with VC and needing to make money
+            - were also held hostage by payment processing
+- ## Mission
+    - **Tagline**: Writing as usual. Publishing like never before
+- ## Conceptual Parts
+    - Wtf is Mirror? What makes the platform take the shape that it does? What are the value propositions and how are they instantiated via the platform?
+    - I was going to throw these directly in this list, but they each probably deserve their own page/link to unpack in more depth
+    - One sentence (re: oversimplified) answer: Mirror is a [[Composable Writing Platform]] that uses [[Tokenized Crowdfunding]] to pay creators/audiences and aims to establish platform neutrality/independence through [[Permanent Decentralized Storage]].
+- ## Open Questions / Concerns
+    - What about handling reputation / platform dominance? 
+        - I imagine people sharing their content on mirror share it on regular (Web2) social media and would suffer from the same problems re: algorithmic bias, early adopter reinforcing reputation (the reputable get the most attention, and thus get paid the most even on Mirror)
+        - It seems as if the platform is decentralized only in terms of creation (i.e. creators own the value they create), but not in terms of consumption (i.e. discoverability of creators suffer from the same limitations in terms of concentration of attention)
+        - article that inspired this thought process: [[A Novel Framework for Reputation-Based Systems]]

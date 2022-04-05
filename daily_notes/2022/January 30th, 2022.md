@@ -1,0 +1,8 @@
+- family time #gratitude
+- #Reading
+    - [[The Beacon Chain Ethereum 2.0 explainer you need to read first]]
+    - [[Ways to improve the ownership economy]]
+    - [[If Apple Were A Worker Cooperative, Each Employee Would Earn At Least $403K]]
+- #Writing
+- #Engineering
+- #Investing

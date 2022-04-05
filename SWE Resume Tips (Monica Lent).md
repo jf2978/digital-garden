@@ -1,0 +1,27 @@
+- # Goal
+    - brush up my resume, remind myself how to do recruiting things
+- # Notes
+    - [Article Link](https://monicalent.com/blog/2020/04/21/software-developer-resume-tips/)
+    - a resume with a typo is an instant turn-off
+    - "having a CV without typos and grammatical mistakes is a byproduct of the candidate **paying attention to details and having good communication skills**."
+        - straightforward, makes sense
+        - TIP: use a spell checker, ask a friend to proofread
+    - make it in incredibly easy to skim
+        - TIP: bullet points, at MOST two lines of text, 70 characters max (wide lines don't help)
+        - TIP: active voice, simple grammar, cut fluff aggressively
+        - TIP: do NOT include a long list of technologies you've touched
+            - oops, I've done this
+            - "Recruiters and hiring managers **don’t have time** to figure out whether one of those 50 technologies on your CV is something you’re competent with."
+            - Solution: list the one's you can talk about comfortably during the interview, that's it
+    - make the resume as relevant to the specific role as possible
+        - if the resume has a different focus than the role, demonstrate that you still understand the role that was applied to
+    - worth adding in a cover letter because companies like to feel special
+        - added bonus: dev roles can especially benefit from demonstrating solid communication skills, understanding of the role, knowing what the company does (everyone needs an engineer at this point and nobody really wants an engineer that's there to "just build anything")
+        - possible cover letter is unnecessary, but they rarely hurt
+    - have some projects to show, but especially make sure they're easy to find! Add hyperlinks where possible -- aside: this could be a good argument for having a polished [[Personal Website]] to quickly demonstrate your work
+    - results > formal education
+        - TIP: use one of the easy formulas to talk about what's been built & the impact it had instead of school stuff
+            - **Built** (project, feature) **in order to** (achieve something) **using** (technologies).
+            - **Increased** (metric) **by** (amount) **through** (technical implementation).
+            - **Integrated** (technologies) **by** (strategy) **in order to** (outcome).
+- 

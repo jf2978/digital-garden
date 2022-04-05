@@ -1,0 +1,54 @@
+- ## Resources
+    - [General Top 10 Behavioral Interview Questions](https://www.thebalancecareers.com/top-behavioral-interview-questions-2059618)
+    - [Tech Interview Handbook Common Interview Questions](https://techinterviewhandbook.org/behavioral-questions/)
+- The Technical-Behavioral interview is like a hybrid between the typical "tell-me-about-a-time" interviews that are trying to gauge my attitude towards the potential role, how I would hypothetically handle tough situations etc. except it may also be conducted by someone with a technical background (usually an Engineering manager)
+    - First re: the behavioral part -- we have the good ol' S.T.A.R. method that's always helpful
+    - ![](https://miro.medium.com/max/700/0*O0oy5HETJju-xxXP.png) 
+    - Having the person on the other side be technical means they'll likely ask similar "tough situation" questions but also have the option to dig deeper into my technical literacy
+        - what technologies did you use for that project you talked about? Was any of it new to you?
+        - how well can I talk about my work outside of the code I write? 
+        - how would I come across other engineers (e.g. ideally ego-less, competent, reliable, etc.)?
+    - So even though I think most companies would probably treat these as one in the same, I think it's an important callout and may change how I prep
+- ## Resume Questions
+    - ### Why are you leaving your current role? What are you looking for in the next one?
+        - Mailchimp taught me lots, but a couple of reasons
+            - team churn & intuit acquisition: elephant in the room; we've lost product/eng leads, the acquisition is kind of messy and more people are leaving
+            - opportunity: I'm looking for a challenge and passionate set of peers who don't want to just chug along with the roadmap, but rather feel like they actually want to help our users. I've built my skill foundation at MC but now its time to recognize the influence/impact I can have and make a meaningful difference
+    - ### You mostly have BE experience, what makes you so sure you can be Full Stack?
+        - still have actual experience building [APM Map](https://apmmap.co) from scratch taught me a lot about FE development
+            - developed designer/UX eye && built React components
+            - end-to-end development natural in (Gatsby): graphQL, configuring webpack, build lifecycle & deployment via netlify
+        - more excitement doing full stack things > complex business logic data endpoints or cloud infrastructure work 
+        - Also personal preference to really grasp the effects of my code changes is to validate for every area of the stack and is what my title may not show -- cloud infrastructure triage, server-side code (consistent, rhythm) and frontend (translation, presentation)
+    - ### Why the interest in Blockchain/Crypto/Web3?
+        - answer here is probably different if the company is in the space vs. from the outside looking in
+        - **Story**: My entry to the space was not an investment, but about the idea of having transparent programmatic money. I knew what it was like to not have a bunch of money, witnessed the effects of crippling debt in my family and understood the power of code (shit is magical when you think about it). My interest then spread like wildfire: open financial system (remittances on Stellar) -> tokenization of all things valuable (Ethereum, Smart Contracts, NFTs, etc.) -> composability of the web (node validators + various protocols + unique use case that was never possible before)
+        - **Result**: tinker in my free time, joined KERNEL KB4, looking for ways to contribute
+- ## Situational Questions
+    - ### Tell me about a time you worked effectively under pressure.
+        - keep in mind hustle culture; I don't think I'd apply or be interested in companies that buy too hard into that all-work-no-life stuff, but this does feel like a good question to gauge how effective I am when things do get hard (which let's be honest, only really happens at startups)
+        - **Situation**: I worked on an audit of our multi-user data models. Spare you the details but we often had linked accounts with different sets of IDs and another set of IDs that could "log in" to one of those accounts
+        - **Task**: Audit the data models, which uncovered a security flaw that technically allowed for revoked "logins" to continue to have access to accounts they were no longer supposed to. All-hands on deck effort brought urgent tasks I was in charge of (querying for number of records in complex circumstances), code fixes (writing a script to backfill / correct these records), etc.
+        - **Action**: wrote queries and code
+        - **Result**: 1-2 day marathon of minimizing risks and correcting thousands of records to ensure no malicious users could log in / do something when they weren't supposed to.
+    - ### Talk about a time you lead other engineers and/or designed a system for the team?
+        - really hammer in the fact that I've been designing systems since I was an Eng 2. I don't think many can say that and it's been a skill that's helped me immensely with having a thorough understanding of what is being implemented & the importance of communicating scope
+        - **Situation**: (MC&Co context) designed a partner referral system MVP - simple on paper, but lots of moving parts to generate a unique link for a partner, following the client which could be on any database shard, keeping our data updated in our cloud service, etc.
+        - **Task & Action**: 2-part role (product engineer)
+            - design the system: write an MVP technical spec outlining the broad touch points, discuss tradeoffs with other engineers on the team, outline tasks
+            - lead other engineers: tight deadline (6-8 weeks and we had other stuff on our plates at the time) outlined the parallelizable work, lead 1BE and 1FE engineer (both senior) to make it happen, engineering voice in product meetings to advocate for cutting scope
+        - **Result**: We did it, code complete almost a week ahead of schedule. It worked pretty well, caught bugs alongside QA instead of after launch, had time to set up solid monitoring/alerts and we were code complete to really get ahead of bugs found in QA, set up monitoring / alerting for errors and brought in something like $250K in referral bonuses for our partners 
+    - ### Imagine it is your first day here at the company. What do you want to work on? What features would you improve on?
+        - Generally, probably something user-facing and on a team that's comfortable with talking to customers/clients directly. I've had experience being far from the source of pain points and I think it just makes building a good product harder
+        - [[Substack]]
+            - I think really understanding the community building aspect amongst writers would be cool. I.e. personal finance writers on substack have a subforum can collab, etc. (e.g. NFT embeds would unite crypto writers)
+        - [[Webflow]]
+        - [[Range]]
+    - ### Talk about a time when you handled a difficult situation
+        - same as working under pressure
+    - ### Talk about a difficult bug you had to troubleshoot, how'd you approach it?
+        - same as difficult situation question
+- ## Questions For Them
+    - No company is perfect and there are always tradeoffs, but I think those tradeoffs say a lot about what a company values. Can you think of an example where this applies to this company? 
+    - How does your team / engineers more broadly approach shipping new features? And strike a balance between agile development (bias towards shipping) with overarching strategy (bias towards intention)?
+    - growth stop?

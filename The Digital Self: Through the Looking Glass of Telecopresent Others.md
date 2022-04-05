@@ -1,0 +1,21 @@
+- {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fsecond-jeff%2FzwzXyON5vd.pdf?alt=media&token=4d3fd657-0056-424c-a92e-d29b4bff7be2}}
+- [JSTOR](https://www.jstor.org/stable/10.1525/si.2005.28.3.387?refreqid=excelsior%3A65ef46d0aec55950a3eedc9220ca186a)
+- # Notes
+    - symbolic interactionism (cooley) = people serve as a looking glass by which we see/understand ourselves // our view of who we are emerges from our interactions with others.
+        - in person ("copresence") we are given a rich array of nonverbal (or otherwise unexpressed) cues to confirm/deny our self representations
+        - but of course, we now interact with plenty of others via the Internet ("telecopresence") — greater difficulty in reading others' feelings towards us
+        - in an "anonymous online world", individuals are more likely to "role play" — assume multiple identities and cycle through them in different contexts
+    - therefore, it's important to distinguish between the __presentation__ of the self and the __conception__ of the self.
+        - presentation = who we **choose** to be (what information about our character we decide to express or omit)
+        - conception = who we **perceive** ourselves to be as informed by our social interactions
+    - the internet made it possible for "telecopresence" to be
+        - available to the general public — the internet is a public good
+        - socially broader — the telegraph and telephone made distant communication possible, but you needed to know each other & share contact info first
+        - asynchronous — communication flow is not tied to the moment in time, but can still build up into a coherent dialogue
+        - non-dialogous  — conversations are not limited to 2 people
+        - anonymous — communication happens face-to-screen; what the screen says can be a mere representation
+            - this is a core idea of why [[Portal]] would be helpful! nfts wouldn't only be art, but verifiable expression. "don't trust verify" would take on a new meaning to include social identity?
+    - There are three basic kinds of “others” we interact with in telecopresence: (1)people we do not know at all, (2) people we know both online and offline, and (3) people we know only online. These three groups of people come to affect our self-conception differently.
+        - most online communication is done with people we know offline, but it's also totally normal/somewhat acceptable to be contacted by a total stranger
+    - __To study the self in cyberspace [re: the metaverse], it is therefore necessary to differentiate between the presentation of self and the conception of self. Although they are closely related, these two aspects of self-construction are affected by different factors. Whereas how we present ourselves to others is influenced by whether we believe others can directly see us or not, how we perceive ourselves is influenced by the extent to which we are able to directly see others and how they respond to us.__
+    - __telecopresence is a situation in which individuals are electronically linked together while physically separate in different locations. Through electronic devices (e.g., networked laptop computers and palm pilots),spatially dispersed individuals become “copresent everywhere at once” (McLuhan, 1964). In the sense that they are not in one another’s immediate physical presence, the individuals are apart, hence “tele”; but in the sense that they can reach one an-other through electronic mediation for real-time communication, the individuals are together, hence “copresent.”__

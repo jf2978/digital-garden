@@ -1,0 +1,5 @@
+- disconnect half day (I need to get better at taking internet breaks!), good food, chill mornings #gratitude
+- #Reading
+    - [[Bluesky Ecosystem Overview]]
+- #Engineering
+    - [[Bonfire]] seems dope, I want to dig into their platform and learn more

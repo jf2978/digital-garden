@@ -1,0 +1,6 @@
+- plenty of food, good vibes & conversations #gratitude
+- #Reading
+- #Writing
+- #Engineering
+    - surprise surprise, doing some more [[Technical Interview]] prep
+- #Investing

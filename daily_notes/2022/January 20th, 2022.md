@@ -1,0 +1,16 @@
+- having a sick home, being a software engineer (feat. job prospects are in abundance, and I also have so much power in the skill itself), handball #gratitude
+- #Reading
+    - [[Crypto Community Building Playbook]]
+    - Two-part series talking about crypto ponzis & criticizing OlympusDao: [[Of Smoke and Mirrors]] 
+        - could definitely be useful for developing my opinion [[Skepticism In Crypto]]
+    - [[⚡️ An Artist in Crypto]]
+- #Listening
+    - [[The Creator Economy with Jesse Walden, Li Jin, and Cooper Turley]]
+    - [[Crypto and the Evolution of Open Source]] (listened to half, but want to finish and take notes)
+- #Writing
+    - [[Jeff <> Geoff]]
+    - thinking about my piece [[Redefining Ownership]]
+    - [[Wallets Are The New Email]]
+    - [[Crypto Economies Require Understanding That You Can't Ask For Permission]]
+- #Engineering
+- #Investing

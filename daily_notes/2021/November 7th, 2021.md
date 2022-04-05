@@ -1,0 +1,12 @@
+- daylight savings extra hour, sunny day, cool tech stuff ([[DeFi ]] lending is pretty dope) #gratitude
+- #Reading
+    - finish reading + notes on [[Reserve Whitepaper v1]]
+    - watch [[Reserve]] overview of new tokenomics
+    - stumbled on an interesting somewhat-unbiased take on "cancel culture": [[What is Cancel Culture (Aja Romano)]]
+        - read it from start to end, but didn't get the chance to follow interesting rabbitholes + take notes (no time for that today); probably worth revisiting at some later point
+- #Writing
+    - update my [[Resume]] before the start of the work week
+    - [[Superfluid]] deep dive to better understand their value prop, how I can contribute, etc.
+- #Engineering
+    - found [JSON Resume](https://github.com/jsonresume) and I think it's pretty dope -- easy to version control, clean, simple, markdown, etc.
+    - maybe start infra things for my [[Personal Website]]

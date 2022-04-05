@@ -1,0 +1,12 @@
+-  interesting conversations with people I don't really know (but want to), feeling healthier, warmth of my bed when it's cold out #gratitude
+- #Reading
+    - [[Building an Investment Thesis]]
+- #Listening
+    - [[Jesse Walden - A Primer on NFTs]]
+- #Writing
+    - think more deeply about [[Chapter One]] before chat w/ Yash
+    - spontaneous deep work: [[Skepticism In Crypto]]
+- #Engineering
+    - MC work
+- #Investing
+    - eradicate my debts and stack cash

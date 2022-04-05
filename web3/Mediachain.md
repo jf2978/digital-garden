@@ -1,0 +1,3 @@
+- ## [Link](http://www.mediachain.io/)
+- An idea too early for its time unfortunately, but a really cool beginning to the whole NFT ecosystem that exists today...
+- 

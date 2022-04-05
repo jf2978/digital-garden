@@ -1,0 +1,36 @@
+- ## [Link](https://reserve.org/assets/files/whitepaper.pdf)
+- # Notes
+- ## Introduction
+    - a stable digital currency is an obvious technical upgrade to the technology of money — technical challenges and their current volatility make cryptocurrencies incomplete candidates
+    - there's a ton of opportunity in the crypto asset space — market measures prove the demand and excitement in the space (giving Tether as an example and noting its accomplishment in spite of the long-term distrust people have with it)
+- ## The Opportunity For Stable Cryptocurrencies
+    - the Reserve team really believes in distributed apps getting to the point where they are just better than other tech alternatives, especially in the realm of emerging markets with weak currencies and/or irresponsible governments that not only hyper inflate their local currency, but also disallow competition
+    - __While one might expect citizens of these countries to simply hold foreign currency instead of their country's inflationary currency, governments in these kinds of situations often don't allow that to happen. The more people sell, the less the local currency is worth on global markets — just like when speculators start to lose faith and sell their bitcoin. Governments and central banks have the incentive to preserve the value of their local currency since that's the currency they have the power to mint__
+        - this battle between crypto and government currencies are also not a zero-sum game. The idea l outcome is for governments to realize the threat of massively decreasing demand for their local currency and begin managing their monetary policy more responsibly (citizens don't mass adopt crypto, but forces competition)
+        - on "iterating on the fundamentals of capitalism" the reserve team also outlines how money as it stands is very game-able — wealth isn't really tied to how much someone has done for others and cryptocurrencies alone are not really a solution but upgrading money, experimenting with this tech and focusing on sable, programmable (and eventually decentralized) money feels like a step in the right direction.
+- ## The Challenge for Stable Cryptocurrencies
+    - This section is essentially dedicated to outlining the major design decisions/tradeoffs that all stable cryptocurrency projects have to make
+    - __Pegged vs. Floating__: in an ideal world, we wouldn't have to peg it on any existing currency (to maximize independence from geopolitical forces, irresponsible governments, etc.) -- but this is way too hard for now, reinventing the overarching macroeconomy is a beast of its own (probably some future with interconnected DAOs). The team here concluded that a **pegged currency (to an existing currency or basket of goods) is best for now**
+    - __Self-referential vs. foreign collateral__: pegging 1:1 to an existing currency isn't really all that interesting (and realistically just wraps an existing currency in cool tech); where things get interesting is when we start considering using a different asset backing the stable cryptocurrency
+        - which then begs the question: how do you manage collateralization if the backed asset isn't some government-stabilized one?
+        - some projects chose to create an entirely new cryptocurrency to serve as the collateral. This means the value of the token == the success of the new currency and thus in turn would serve as even better collateral (i.e. self-referential). 
+            - **Pros**: stability begets stability (success -> more valuable token -> means better collateral)
+            - **Cons**: it also works in the other direction... i.e. if shit hits the fan (and faith is lost in the collateral) the "stable" cryptocurrency collapses
+        - foreign collateral means backing the stable currency using some basket of goods independent of the stable currency itself -- this seems best in order to avoid the super bad cascading effects of a shift in market demands
+        - __Self-referential collateral appears to be viable only if the market consensus about the future usage of a currency is extremely entrenched__ <-- I think this is why bitcoin may actually be great collateral
+    - __Peg to Fiat vs. Peg to Other Asset__: 
+        - Pegging to fiat is nice because its so easy, but then you're pegging to fiat (and inflation is still a problem). Pegging to a basket of goods is objectively better in this regard, but its also much more complex
+    - __Partial backing vs. full backing__
+        - Having only X% in reserves actually backing a stable cryptocurrency is an attractive option (and was the original plan), but trying to guess what % would work to maintain stability is crazy hard (crypto markets are different than fiat, stablecoins are way more competitive so who knows if everyone decides to switch, etc.)
+        - Best to just keep collateral backing to 100%
+    - __Onchain vs Offchain foreign collateral__
+        - backing thee stablecoin purely with crypto assets maintains a lot of the great properties that come with decentralization -- censorship resistance, verifiable with just some smart contracts, etc. -- all of which would be especially useful for a global currency to have
+        - biggest downside of doing that is volatility though: you'd need to overcollateralize or hedge against those crypto assets both of which would require upfront capital (to a degree that just isn't feasible at this point in history)
+        - conclusion: use tokenized offchain foreign collateral
+    - __Single-issuer vs. multi-issuer offchain collateral__
+        - offchain collateralization involves tokenizing some offfchain asset so you'd need someone to A) store the actual asset (some trustworthy custodian) and B) that that custodian is resistant to hackers, bad govts, etc. It's centralized and the same problems exist. Govt shutdowns are a real threat, many orgs have been shut down before
+        - Having a single issuer for these services creates a single point of failure (bad)
+        - Having multiple is better, but also creates a new increased risk for __partial__ default
+        - Since governments are more likely to be the external parties to look out for, the reserve team will try too diversify issuers based on geopolitical jurisdictions
+- ## Overview of the Reserve Protocol
+- 

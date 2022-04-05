@@ -1,0 +1,8 @@
+- deep breaths #gratitude
+- #Reading
+- #Writing
+- #Engineering
+    - local peak of [[Technical Interview]] prep
+        - **Reminder to myself**: an interview is not a reflection of my skills, let alone a reflection of my worth as an engineer. Nerves are natural: frankly, it's hard not to feel nervous when you're being silently judged for 4 hours straight. But one thing remains true even still: I'll still be me before and after this interview. I'll still be curious, smart, hardworking and a damn good engineer. If by some chance, they don't see it that way then it's not personal! We're both working with incomplete information and the process is ultimately a matter of trying to understand the person on the other side #gratitude
+            - I want to start each interviewer directly before I start: what are you __really__ looking for in this interview? What's the mindset I can demonstrate that will prove that most to you?
+- #Investing

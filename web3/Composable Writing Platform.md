@@ -1,0 +1,6 @@
+- One of the most apparent features of mirror from what I've seen is its power to offer a writing platform (like medium, substack, etc.) with classic/crypto creator building blocks alike --  writing, visual art, and other rich internet media like tweets/YT videos, etc. -- that leverages the composability of web3 and native economic structure of Ethereum.
+- In plain English (with concrete examples) I mean:
+    - Mirror offers a way to write on the internet which nowadays includes more than just words on a webpage.
+    - They then add a twist that we haven't really seen yet thanks to crypto
+        - let **creators **(whether its individuals or publications) own the stuff they put out there independent of the platform itself. Made possible by [[Permanent Decentralized Storage]] 
+        - and let the **audiences **(whether its just someone who just stumbled on the article, regular readers, avid supporters) invest in the creators directly. The platform effectively achieves this with features like [[Tokenized Crowdfunding]], splits and auctions that all sort of bubble up to a "proof of patronage" system

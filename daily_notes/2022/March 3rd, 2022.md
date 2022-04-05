@@ -1,0 +1,7 @@
+- not fighting in a war, not feeling the need to make quippy comments on twitter or any social media for that matter #gratitude
+- #Reading
+    - [[Fractional.art]]
+    - 
+- #Writing
+- #Engineering
+- #Investing

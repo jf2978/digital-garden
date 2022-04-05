@@ -1,0 +1,113 @@
+- Abandoning "luck" and taking risks we can learn from
+- ## TL;DR
+    - acknowledging our past in 1 sentence
+    - building wealth in 1 sentence
+    - take a closer look in 1 sentence
+- # Our Origin Story ⬅️
+    - A little over a year ago, I lost half of my savings in a matter of days.
+    - But as I stared down the barrel of my rapidly depleting portfolio as a newbie investor — I couldn’t help but feel lucky. Obviously not because I lost a bunch of money, but because I knew this was a moment of truth.
+    - I thought to myself: was I going panic out of [fear of losing more](https://www.investopedia.com/terms/l/loss-psychology.asp), and blame "the market", or was I going to recognize this as an opportunity for growth and double down on myself?
+- ## A Little Bit of Luck
+    - You see, growing up, I was surrounded by people who thought "being lucky" only meant one thing: winning the lotto. I watched my parents spend the little leftover money they had on scratch-off lottery tickets or to play their favorite numbers at the local bodega.
+    - ![https://media.giphy.com/media/3orifd5KmdNw5zGgkE/giphy.gif?cid=ecf05e47e3eyz2ovhe5zmpqgkq310zaynz3z7mi3vbabaosk&rid=giphy.gif&ct=g](https://media.giphy.com/media/3orifd5KmdNw5zGgkE/giphy.gif?cid=ecf05e47e3eyz2ovhe5zmpqgkq310zaynz3z7mi3vbabaosk&rid=giphy.gif&ct=g)
+    - And, frankly it made total sense for my parents. Taking that chance felt like the only way out of a tough financial situation and now more than ever, we don't just want change, we want it immediately.
+    - But the probable truth is: **the lottery is just an inexpensive opportunity to dream**.
+    - It traps us to think only about the destination (winning millions of dollars) without any preparation and without taking any real risks. If we win, we're lucky. If we lose, it had nothing to do with us — we can always tell ourselves that we were just unlucky this time around.
+    - Because of this, we fail to recognize that our good fortune has nothing to do with who we are (lucky, unlucky) and it has everything to do with **taking risks that we can learn from**.
+- # Building Wealth 💸
+    - Frankly, I'm pretty sure there is no one "right" path to becoming financially secure — let alone to building wealth. While that may make things seem harder to navigate, this fact often reminds me that, as my dad would say,  "cada cabeza es un mundo" or "every head is its own world".
+    - It may sound simple, but it often helps reframe our journeys as less of a race (against others, or against time) and more as a personal adventure — filled with twists and challenges that only we really understand.
+    - Instead, I think it's better to forget luck and focus on **growth**.
+    - Rather than waiting for our "lucky break", we should do the things that we know will push that needle forward just a little everyday. Financial security will come from admitting to ourselves that we are in total control
+    - **growth is where intention meets (real) risk**. Or more specifically:
+        - **__Intention__** is about having a set of values and goals. With respect to our finances, that means knowing what about money is actually valuable to you and being specific about how to get there. E.g. "making more money" can be a goal, but without specifying what having more money means to you, you'll never be satisfied.
+        - **__Real Risk__** is any situation that involves potential loss where you are the only one to blame if it goes south.  both you and your moneypretty self explanatory, but most of us (including myself) don't take enough of them.
+        - Growth is
+    - It's a nice idea that gives us control over our own good fortune, but it  Moreover, focusing on "luck" still makes it seem like good things happen in a single moment rather than it being just one outcome of many small decisions.
+    - In reality, financial security (and eventually, wealth) is all about managing our relationships with __risk__.
+    - It's not "sink or swim", but rather finding comfort in
+- ## The "Lake" → Getting Your Feet Wet
+    - (when our circumstances dictate our financial decisions) = financial survival = wealth depletion
+        - the feeling: survival mode and we have no real control over the money we earn — every dollar we earn is quickly spent and it feels like there's no way out.
+        - problem: not making enough money to pay down real financial needs and/or feeling stuck in consumer debt
+        - solution(s) = make tough, but necessary sacrifices:
+            - live below your means right now; cut anything that isn't an immediate need (tight budget and don't invest at all, everydollar is super good at tackling debt)
+            - earn more if it's feasible (consider a side hustle where you can __immediately__ earn money, not one that requires too much investment)
+        - danger of not doing this: wealth depletion is like quicksand financially and emotionally
+- ## The "Cliff" → Taking a Leap
+    - (when fear dictates our financial decisions) = the financial "cliff" = wealth preservation
+        - the next phase because even after we leave the real, tangible bounds of our financial circumstances, our mindset around what money means to us may still be operating in that mode
+        - new circumstances: Making enough to keep up with costs and have at least a little leftover to spend/save/invest.
+        - new problem: Earning and saving out of fear of not having enough or without a goal in mind.
+        - solution(s): leverage the predictability in your financial life and plunge
+            - loose budget to keep an eye on your lifestyle: YNAB (conscious money spending)
+            - build an emergency or an "fu fund"
+            - set up auto-investments to get a handle on what it means to invest safely: investing with very little risk is possible!
+            - take 1 big risk (whatever "big" means to you!) — important to teach yourself that risks aren't inherently bad
+- ## The "Ocean" → Learning How to Swim
+    - (when growth becomes a priority) = the financial adventure = wealth building
+        - having a handle on our immediate finances and basic investments is better than most!
+        - new circumstances: looking for higher-level needs like meaning, purpose and fulfillment in our work and how we spend our money. Maybe you have money, but less time or just enough money and plenty of time — this is the point where money and the rest of life get blurry
+        - new problem: nobody really know what they're doing — there's a lot of noise we get from every YouTube video, tweet, blog post claiming to have found "the answer" — BUT this is the fun part! Success at this stage requires us to be free from our financial circumstances (to avoid making short-term decisions) and our fears (to be able to cut through the noise and just keep going)
+        - solution(s):
+            - investing in yourself (creative side hustles that require slow growth, upfront time costs)
+    - <Repeat>
+    - But even if we ignore the fact that inflation weakens our purchasing power over time, growth
+        - Core financial concept to understand
+        - In plain english (direct, clear and simple)
+        - With images / drawings to going from abstract concept → down-to-earth idea
+        - Strong link to why this matters (thesis)
+        - Resources → how can we do this
+- ## Taking Some Risks
+    - Now, this isn't to say that anyone playing the lottery is just making excuses or that they don't want to better prepare their finances. It's genuinely hard to take the time and energy needed to learn about investing or to let go of our fears of losing money.
+    - Hopefully, this post helps both.
+    - When I struggle with taking risks, I often look to to [Sylvia Plath's](https://bookshop.org/a/19814/9780060837020) famous "fig tree" passage:
+    - [🔗](https://www.youtube.com/watch?v=oFwaeb3a3NA)https://www.youtube.com/watch?v=oFwaeb3a3NA
+    - "I saw my life branching out before me like the green fig tree in the story. From the tip of every branch, like a fat purple fig, a wonderful future beckoned and winked. One fig was a husband and a happy home and children, and another fig was a famous poet and another fig was a brilliant professor, […] and another fig was Europe and Africa and South America [...] I saw myself sitting in the crotch of this fig tree, starving to death, just because I couldn't make up my mind which of the figs I would choose. I wanted each and every one of them, but choosing one meant losing all the rest, and, as I sat there, unable to decide, the figs began to wrinkle and go black, and, one by one, they plopped to the ground at my feet.
+    - — Sylvia Plath, The Bell Jar
+    - I think back to it, not because it particularly helps me make the right decision, but because it reminds me that there is no "right" decision. 90% of the time what comes __after__ the decision is way more interesting, formative, and rewarding — even if you come to the conclusion that you made the "wrong" choice.
+    - As weird as it sounds, I was grateful I lost a bunch of money because it helped me prove to myself that the worst could happen, and that I would still be OK. It taught me to trust myself and to be skeptical of that anxiety-inducing voice that always focuses on what could go wrong 10% of the time.
+- ## Today's Issue
+    - Most of us know the well-known saying that "luck is where preparation meets opportunity", but I'm not sure we should be looking for luck at all. Good things don't happen at a single moment in time and preparation implies you know where we're going.
+    - That's what I hope this post will
+    - preparation = is just intentional learning — having a goal in mind and learning about what "can" be done. i.e. the ability to recognize opportunities is informed by preparation (among many other things)
+    - opportunity = is just potential reward; **action** is what unlocks this potential and **risk** moderates the relationship between "acting on an opportunity" and "reward".
+        - **preparation** (moderates) → **opportunity**
+        - **opportunity** → **action** (mediates) → **reward**
+        - **risk** (moderator b/t **action** and **reward**)
+    - Yes, opportunity is unequal and ought to be equally distributed, BUT the point here is that most people are unable/unwilling to take action rather than and misattribute the
+    - (1 = no reward, 1 = reward, but equal chances (i.e. equal reward risk) and 2 = high risk/reward ratio)
+    - compounding factor = do repeated events over time increase the likelihood of winning?
+    - LOTTO
+    - preparation = 0 (nothing you can do to prepare really)
+    - opportunity = 3 (risk $5, potentially win millions)
+    - likelihood
+    - luck for winning the lotto = (0 + 3) * (odds of winning)
+    - INVESTING
+    - preparation to win
+    - investing luck = (1 + 2.5) * (odds of
+    - **[extends to ...]**
+    - taking risk = potential loss + action
+- ## Growth Over Equity
+- ## Taking Risks
+    - as humans, actually making decisions is complex — we need to probe, sense and respond (i.e. act then learn)
+- ## ee
+    - Why risk → because risk is necessary for intention to meet
+- ## Taking a Risk
+    - I'd argue that it's because we (including myself) usually misunderstand the process of building wealth
+    - First, we assume that we need some sign from the universe, help from someone or just someone to give us a chance before we even start. In practice, luck is a function of how we see the world and real risk is taking a chance on ourselves**.**
+    - Betting $5, $10, $20 and having the excuse to blame that loss on something entirely out of our control.
+    - The only difference between playing the lottery and gambling is where the lost money goes. where we bet $5
+    - We forcibly quantify it — telling ourselves that a "six-figure" job means we can start building wealth or that with $1 million all of our problems would be solved. Why not focus on the sense of progress or the __growth__ of ourOftentimes, without even realizing it, we put our wants/desires for ourselves into the hands of others.  others to change or for others to help our own circumstances __more than__ we desire to change ourselves, then others more than we empower ourselves to  that nothing we do will help change our circumstances, or worse, we start believing that nothing we do [ever will](https://www.verywellmind.com/what-is-learned-helplessness-2795326).
+        - Personal story about money, wealth, as a first-generation college student/grad, etc.
+        - Relating that personal story → to the greater "us" (where's the common ground)
+        - Why does this matter with respect to wealth
+- # Building Wealth 💸
+    - Core financial concept to understand
+    - In plain english (direct, clear and simple)
+    - With images / drawings to going from abstract concept → down-to-earth idea
+    - Strong link to why this matters (thesis)
+    - Resources → how can we do this
+- # Building Towards A New Future ➡️
+    - summarize everything
+    - how this adds to our hope as the second generation

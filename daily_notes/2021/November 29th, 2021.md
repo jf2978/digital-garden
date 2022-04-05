@@ -1,0 +1,6 @@
+- laughing at random stuff, good focus time (flow state), sleep without waking up #gratitude
+- #Reading
+- #Writing
+- #Engineering
+    - deep work [[Technical Interview]] prep
+- #Investing

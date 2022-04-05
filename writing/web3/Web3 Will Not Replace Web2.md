@@ -1,0 +1,29 @@
+- What I call "web2.5", the basic idea is that Web3 isn't "the" solution for everything, but rather an extension that can coexist with the existing societal structures and technological advancements that exist in web2.
+- # Background
+    - **__(this section definitely requires more research, and currently just seeks to summarize what I've observed in the space)__**
+    - I think some people are getting ahead of themselves and wrapped up in excitement over web3. see [[Jeff <> Jesse]] section on web3 not being the tool to solve every problem.
+    - I want to offer an alternative perspective where both web2 and web3 complement each other.
+- # Why Not Both?
+    - It's definitely enticing and more exciting to think of what the "web3 breakout organization" will look like similar to us looking for "Uber for X" startups in today's venture capital portfolios, but I think that's just us trying to retrofit our understanding of the past and project it into the future.
+    - For example, despite resonating with the ethos of owning our own data and assets I also don't expect society as a whole to be interested in running their own servers or managing private keys to their wallets. The "culture of convenience" technology was __reinforced__ by web2 technologies not created by it. The need for life to feel easy (and minimize pain) is part of our psychology, not our culture.
+        - However, I do still think we can do better. 
+        - We do now have lots of people are waking up to the dangers of trusting centralized entities too much -- whether people care about their **data** (feat. the "fuck surveillance capitalism" folks), their **economic opportunity** (feat. the "my small business can't compete with Amazon" folks), their **attention** (feat. the "I need to be on Instagram even though it doesn't make me feel good about myself" folks), or their **freedom** (feat the "I should be able to say whatever I want on the internet" folks).
+    - So I think the question then shifts from "how can we beat and replace centralized, web2 walled-gardens?" to "what can 'web3' give people that web2 cannot (or will not)?"
+    - Reframing our concerns this way most notably shifts our focus away from "zero-sum game" to  "win-win". Web3 will innovate enough to offer a different set of value propositions more effectively than their web2 counterparts.
+    - Which sort of begs the question: what __does__ web3 bring to the table that's so special?
+- # Interdependent Mini-Economies
+    - We usually talk about the "gig economy" or "attention economy" like they are mutually-exclusive  phases in our societal value structures, but in reality our economy is far more dynamic and cultural shifts don't happen overnight.
+    - For the explanation's sake, let's imagine our economy as a whole is analogous to our diet.
+        - **Ad-driven, consumer internet businesses are like fast food** -- cheap, efficient and focused on making you feel comfortable, but eat it regularly and it's utterly detrimental to your health. This is the winning set of characteristics that exist in the [[attention economy]]
+            - From a consumer's perspective, these work so well because they're "free". Yes, they will leverage your data by selling it to other companies. Yes, they're probably taking that data as input for their machine learning models. Oh and guess what, you're probably gonna get addicted.
+            - From the platform's perspective, this business model is fundamentally dependent on balancing a sense of __familiar novelty__ (as counterintuitive as that sounds) so that you always want more but don't feel the drastic change. This is why Facebook's (in)famous "move fast and break things" slogan makes so much sense. 
+            - Contrary to what some may think, I'd argue this has less to do with the competitive pressures present in capitalistic societies and more to do with the limits to the human brain to 
+        - **Subscription-based and/or "gig"-driven web2 services are like restaurants** -- convenient, specialized and focused on creating a "premium" experience. Doing it is more about our experience and relying on these too much means they become part of your lifestyle (for better or for worse).
+            - From a consumer's perspective, the value prop here is put simply: "I want to simplify my life and/or enjoy my time and I'm willing to pay for it." This could be anything from access to specialized software (e.g. Adobe) or time-saving tools where ads would actually be detrimental to consumption (e.g. productivity apps).
+            - From a platform's perspective, their goal is to create __consistent__ revenue streams/profits -- opting to look for especially sticky (and usually niche) use cases to take what was previously considered discretionary spending and make it a lifestyle need.
+        - __side note__: sometimes these complement ad-driven businesses -- we can choose to pay for a "premium" consumption experience (no ads, more features, etc.) that leverage their social reach and/or popularity to provide a "service" in their own right.
+            - similar to how we're willing to literally pay a premium on the food we eat because we're being given special treatment (being served), eating food made from high quality ingredients or by a famous chef, etc.
+        - **Participating and token-based web3 economies is like ...**  --  contributing to and investing in a token-incentivized community is hard work and probably not all that lucrative in the short-term, but over time helps satisfy ours needs for meaningful work.
+            - (TBD: address the underlying socialist ideals here and come to a conclusion about what **practical** role capitalism plays here)
+- # 
+    - This is a point Moxie Marlinspike made in [[My first impressions of web3]]

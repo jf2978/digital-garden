@@ -1,0 +1,10 @@
+- job opportunities, restful showers, nerdy things that energize me #gratitude
+- #Reading
+    - watched [[A Kinder, Gentler Philosophy of Success]]
+    - [[Rocket Pool Launches Into Orbit (Messari)]] (if I have time)
+- #Writing
+    - took notes on [[A Kinder, Gentler Philosophy of Success]] ideas weren't necessarily new, but helpful to rehash and think about how this applies to me and my loved ones
+- #Engineering
+    - 
+- #Investing
+    - [[Rocket Pool]]

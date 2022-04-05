@@ -1,0 +1,15 @@
+- sunday mornings, low(er) ETH gas fees, sleeping like a baby #gratitude
+- #Reading
+- #Writing
+    - breaking down companies I'm actually interested in interviewing for 
+        - [[Range]]
+        - [[Substack]]
+        - [[Plaid]]
+        - [[Bloomberg]] (referral)
+        - [[Webflow]]
+- #Engineering
+    - {{[[TODO]]}} schedule technical R1 interview
+    - Start [[Technical Interview]] prep (I hate the game, but I gotta play it for now)
+- #Investing
+    - used bridge.terra.money for the first time -- pretty dope, low-ish fees
+    - want to stake LUNA/UST, but also wanna give some deeper thought into [[Choosing a Terra Validator]] to make sure I'm not either doing something stupid or blindly contributing to something I don't want to support w/ my capital

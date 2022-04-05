@@ -1,0 +1,10 @@
+- ## [Link](https://moxie.org/2022/01/07/web3-first-impressions.html)
+- ## My Notes
+    - ### How I think about web 1 and 2
+        - > people don't want to run their servers and never will.
+            - While I think this is true in our immediate place in our technology journey, I'm skeptical that it will always be the case. Especially if/when we find a way to really leverage decentralization as something more than an intellectual talking point. 
+                - __How do we get people (everyone) to care about the lofty ideals possible with web3?__
+            - This also brings up a good point about avoiding the trap of being "technology purists" the way Packy McCormick mentioned in [[Crypto Bezos]]. **We can't talk about cool new tools as value propositions themselves.** Assume nobody gives a fuck about how the sausage gets made unless it brings real, tangible value. 
+        - > a protocol moves much more slowly than a [centralized] platform
+            - Link to a previous post about the tradeoffs made when building [[Signal]]: [[The Ecosystem is Moving]]
+            - This is a real problem, but again feels like an assumption and/or tradeoff rather than an immediate truth. Also, I personal thesis I have is that [[Web3 Will Not Replace Web2]], but rather we'll end up with both tech stacks having their advantages/disadvantages and powering a "web2.5" economy.

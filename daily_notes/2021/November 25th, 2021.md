@@ -1,0 +1,9 @@
+- thanksgiving!, Jayson driving us everywhere (he's got it tough man), good games of handball, athletic wear (makes me look more fit than I am lol) #gratitude
+- #Reading
+- #Writing
+- #Engineering
+    - continue [[Technical Interview]] prep
+- #Investing
+    - Choose a handful of different validators
+        - [[Choosing a Terra Validator]]
+        - [[Choosing a Polkadot Validator]]

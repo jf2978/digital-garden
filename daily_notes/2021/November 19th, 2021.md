@@ -1,0 +1,2 @@
+- cool new career opportunities, reset days (sometimes you just gotta let yourself feel like shit and eat some ice cream), good/healthy friendships #gratitude
+- 

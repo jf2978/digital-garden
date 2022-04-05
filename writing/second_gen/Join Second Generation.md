@@ -1,0 +1,7 @@
+- ## The Problem
+    - First-generation college students all over the country graduate into the real world and face a new set of problem that revolve around one concept: **wealth**.
+    - How do I manage my finances? What if I don't love my "good job"? How do I support my parents financially and emotionally? I truly believe that understanding wealth — in every meaning of the word — is a crucial piece to that puzzle.
+- ## A Solution
+    - Second Generation aims to capture my evolving thoughts on wealth with first-generation college graduates in mind — from developing healthy personal finance habits to understanding the tech industry’s role in shaping the wealth-knowledge gap.
+    - This newsletter will always be a work in progress, but I hope you’ll join me on this journey.
+- ### [Newsletter Link](https://www.secondgen.co/p/what-is-wealth)

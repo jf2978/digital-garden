@@ -1,0 +1,7 @@
+- having the luxury of time, friends willing to have good conversations (no one in particular in mind) #gratitude
+- #Reading
+- #Writing
+- #Engineering
+    - focus time for MC work
+    - looking forward to hacking away at the [[Range]] take home! I really wanna put some real effort into it
+- #Investing

@@ -1,0 +1,4 @@
+- ## [Link](https://www.jstor.org/stable/1449620?ab_segments=0%252Fbasic_search%252Fcontrol&refreqid=excelsior%3A88633545f79a7b0dd4b5e4210f81b450)
+- # Notes
+    - > Thus the construction and reconstruction of one's life story over time equates to the ongoing process of constructing one's identity (276)
+        - interesting to note that this is a process taken over time, is constantly revised and "constructed" — implying that it involves synthesizing of smaller parts?

@@ -1,0 +1,9 @@
+- having more free-spirited friends, hope for better days, days I can just do absolutely nothing and still be OK #gratitude
+- #Reading
+    - looking into contributing to the harmony/one repo, suggested reading: [[How to Write a Git Commit Message]]
+        - Obviously I already know how, but it looks like one of those "experienced software engineer has a strong opinion on something seemingly trivial, so he wrote a blog post about it".
+        - Is subject matter is sort of trivial? Yes. But I guess as with any skill worth mastering, recognizing even the tiniest nuances just might be the key to differentiating a good engineer from a great one 
+- #Writing
+- #Engineering
+- #Investing
+    - haven't checked my portfolio once today (and I'm proud of myself for it)

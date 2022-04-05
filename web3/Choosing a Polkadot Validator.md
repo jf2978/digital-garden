@@ -1,0 +1,7 @@
+- ## Resources
+    - [Polkadot Docs](https://wiki.polkadot.network/docs/maintain-guides-how-to-nominate-polkadot)
+    - [Polkadot Beginner Staking Video](https://www.youtube.com/watch?v=FCXC0CDhyS4)
+    - [Validators List](https://polkadot.js.org/apps/#/staking/targets)
+- ## Notes
+    - Wei Tang
+    - P2P

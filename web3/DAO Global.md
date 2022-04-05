@@ -1,0 +1,2 @@
+- ## [Link](https://gitcoin.co/hackathon/dao-global?org=superfluid-finance)
+- Brought here by looking for ways to contribute to [[Superfluid]], so I'll focus on those bounties here

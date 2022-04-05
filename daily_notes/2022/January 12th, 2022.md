@@ -1,0 +1,1 @@
+- a supportive work environment where I can sort of just check out if I'm sick #gratitude

@@ -1,0 +1,35 @@
+- ## [Link](https://owocki.com/transcending-differences-individualism-collectivism/)
+- ## Notes
+    - Macro view: The "internet of jobs" is happening
+        - The internet of information revolutionized everything in society that had to do with information. Every piece of information can now run along a computer network
+        - > And I believe that the internet of value will do the same for anything that has to do with value transfer because we can now transfer value/scarcity along a computer network
+        - People aren't focusing enough on Internet of Jobs -- what comes after DAOs
+        - The internet of jobs can make web3 go mainstream -- most people don't think about investing when they think of their financial well-being; they think about their jobs
+        - > You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete.
+
+-- Buckminster Fuller
+        - > And that's our goal: to create more value for everyday members of society.  As opposed to the gig economy which sort of boxes people in in a race to the bottom; commodification of skillsets.
+        - Related post: [[The Internet of Jobs Is Here]]
+    - This mission is about talent.
+        - The point of moonshot collective / gitcoin is to build a product suite that helps DAOs recruit, recognize, reward and retain talent.
+    - What is the "coordination party kit" CPK
+        - tip.party (example)
+        - Now we're trying to get 
+        - others: pay.party, https://grants.gtcdao.net, tokenstream.party
+            - tokenstream blew my fucking mind. I'd heard of [[Superfluid]] and so the idea itself isn't really novel, but their use case is very tangible and the implementation is so clean.
+        - Questions Break:
+            - Community building analysis tools? Lots of the thinking around this is still very high level and no real analysis has been done on the nitty gritty
+            - should we have standards? We still believe in decentralization, but I think the design space needs to be explored before we set standards
+    - Individualism & Collectivism (separate talk)
+        - basic definition on a high-level (spoiler alert: these two groups don't often agree)
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fsecond-jeff%2F5a7znRgmkZ.50.24%20PM.png?alt=media&token=e158763d-7afc-4c12-8768-caaf77299854)
+        - What' especially interesting though is that they don't even agree about the definitions of each other.
+            - > Individualists care about individual sovereignty and avoiding coercion; Collectivists care about the group good... I.e. for individualists the axis is sovereign vs not & for collectivists the axis is group good vs. individual good
+        - Taxation is a great example:
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fsecond-jeff%2FpJ714X4Ru_.55.58%20PM.png?alt=media&token=41c7f834-3a44-4774-b052-4b3455e8f144)
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fsecond-jeff%2Fr-4DutIOZC.56.46%20PM.png?alt=media&token=9eac6cc4-e290-474f-b0fc-009db58d4fe6)
+        - And important here is the point tot understand a better way to disagree about this stuff -- at the end of the day, balance is what we both want
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fsecond-jeff%2Fs80iBAl0HS.58.15%20PM.png?alt=media&token=320ceb80-10a5-4433-9639-15d57d6bf561)
+        - > Web 3 creates non-coercive markets for public goods.
+        - where we are and where we want to go
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fsecond-jeff%2FYeOTcaAet9.03.28%20PM.png?alt=media&token=789102d7-60c3-4130-80d8-c7cd1344bc1a)

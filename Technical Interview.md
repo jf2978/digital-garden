@@ -1,0 +1,64 @@
+- ## [Link](https://leetcode.com/)
+- ## Other Resources
+    - [Top 75 LeetCode Questions (Blind)](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions)
+    - [[Golang things to know for SWE interviews]]
+    - [Data Structures & Algorithms In Go (YT Playlist)](https://www.youtube.com/playlist?list=PL0q7mDmXPZm7s7weikYLpNZBKk5dCoWm6)
+    - [[Tricks in Go]]
+- ## Data Structures & Algorithms
+    - I basically wrote up a document breaking these concepts down for myself in Notion [here](https://gleaming-fibre-04a.notion.site/CS-Fundamentals-c60d12abd38f4271ac0d346832153f57)
+        - Might be worth trans that document here (but eh, why do more work?)
+    - ### [Binary Heaps](https://medium.com/basecs/learning-to-love-heaps-cef2b273a238)
+        - [Heaps In Go](https://www.youtube.com/watch?v=3DYIgTC4T1o&list=PL0q7mDmXPZm7s7weikYLpNZBKk5dCoWm6&index=1&t=12s)
+- ## System Design
+    - [[Grokking the System Design Interview]]
+- ## Roadmap
+    - Week 1 (11/21 - 11/28; Thanksgiving Week)
+        - {{[[DONE]]}} add to [[Tricks in Go]]
+            - {{[[DONE]]}} Slice tricks [doc](https://github.com/golang/go/wiki/SliceTricks)
+            - {{[[DONE]]}} read and take notes about strings/runes/bytes [in Go](https://go.dev/blog/strings)
+        - {{[[TODO]]}} Watch the Data Structures & Algorithms in Go YT playlist
+            - {{[[DONE]]}} [heaps](https://github.com/jf2978/go-data-structures/blob/master/max_heap.go)
+            - {{[[DONE]]}} linked lists
+            - {{[[DONE]]}} hash tables
+            - {{[[DONE]]}} stacks + queues
+            - {{[[TODO]]}} binary search tree
+            - {{[[TODO]]}} graphs
+            - {{[[TODO]]}} trie
+        - {{[[TODO]]}} [[Grokking the Coding Interview]] only learn patterns & take notes 
+            - {{[[DONE]]}} sliding window
+                - {{[[DONE]]}} reading
+                - {{[[DONE]]}} easy questions 
+                - {{[[DONE]]}} medium questions
+            - {{[[TODO]]}} two pointers
+            - {{[[TODO]]}} fast & slow pointers
+        - {{[[TODO]]}} 20 LeetCode questions (2 from each section on the Top-75 list, except binary fuck those)
+            - {{[[DONE]]}} array
+            - {{[[DONE]]}} linked list
+            - {{[[DONE]]}} string
+            - {{[[DONE]]}} binary
+            - {{[[DONE]]}} heap
+            - {{[[DONE]]}} tree
+            - {{[[TODO]]}} DP
+            - {{[[TODO]]}} graph
+            - {{[[TODO]]}} interval
+            - {{[[TODO]]}} matrix
+    - Week 2 (11/29 - 12/5)
+        - {{[[DONE]]}} talk w/ [[Range]]
+        - {{[[TODO]]}} [[Plaid]] coding interview
+            - Before my interview:
+                - {{[[DONE]]}} review leetcode.go + prep env
+                - {{[[DONE]]}} 1 string question (hard)
+                - {{[[TODO]]}} 1 binary search tree question (medium)
+        - {{[[TODO]]}} 20 more LeetCode questions (1 from each section on the Top-75 list)
+            - {{[[DONE]]}} array
+            - {{[[TODO]]}} DP
+            - {{[[TODO]]}} graph
+            - {{[[TODO]]}} interval
+            - {{[[TODO]]}} linked list
+            - {{[[TODO]]}} matrix
+            - {{[[TODO]]}} string
+            - {{[[TODO]]}} tree
+            - {{[[TODO]]}} heap
+    - Week 3
+        - {{[[TODO]]}} [[Substack]] Technical Onsite 
+    - Week 4

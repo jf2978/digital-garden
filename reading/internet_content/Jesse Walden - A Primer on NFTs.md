@@ -1,0 +1,33 @@
+- ## [Link](https://www.joincolossus.com/episodes/5917632/walden-a-primer-on-nfts)
+- # Notes
+    - ## Introduction
+        - Starting out as a teenager around the time P2P music/media sharing was a thing (Limewire/Bittorrent) -- except he was uploading these files instead of just consuming
+        - Platforms (like spotify in this example) then came around and solved the piracy issue. They bundled __identity__ (a social profile, email, etc.) with the __media__ actually being posted.
+        - The music industry is still especially complicated from the perspective of leveraging NFTs, but still possible.
+        - Q: So a content creator on YouTube who can generate $ from ad revenue based on views -- what do they have to gain in this NFT ecosystem?
+            - A: NFTs are **portable **to any platform, so that reduces the need for the creator to ever go to "place where most of the eyeballs are". They can go to whichever platform suits them most (not to mention the fact that their content can't **get **censored for whatever reason). I think a better question would be "where are the consumers" flocking to in this world?
+        - Q: So what about the consumers? What do they have to gain if they can just consume the content for free? What does having the NFT actually give them
+            - A: The same benefit that collectors get from owning original art pieces, but NFTs let us take it a step further because it lets creators' super fans (or earliest patrons) benefit from the appreciation of the asset sold to them by the creator. (more below...)
+    - ## "Patronage+"
+        - **Explanation**
+            - Let's think of what Patreon is doing now -- allowing for fans to pay a monthly subscription for access to exclusive content, show support, etc. from their creator of choice.
+            - This is akin to __renting__ access to content the creator will eventually put behind that paywall. If you unsubscribe, you lose the value that you put into that creator.
+            - The "+" comes from now being able to support creators via NFTs and benefit from the potential appreciation of the artist/creator they're supporting.
+        - ** (My Personal Spin)**
+            - Think of the TikTok artists that blow up and become stars. It's a common trope across multiple different platforms and is a great example of artists really benefitting from the internet as a whole.
+            - Now when they do blow up, who captures that value? The artist themselves at the end of the day, sure, but what about all those viewers/internet supporters that drove the virality that made that actually happen?
+            - That goes straight to the platform's ad revenue and/or machine learning model. I think most creators would agree that their fans are what make their fame/riches possible (not just the platform). So what if creators could reward their fans directly? Especially those early fans that were tuning in before anybody knew their name or paid any attention?
+            - This is what creators can now do with NFTs. 
+            -  Say an artist drops an album and makes each song an NFT. If you just want to listen, no need to worry about the NFT, you can opt in to use your favorite service for that because (again) [[Web3 Will Not Replace Web2]]. However, if you have a really good feeling about an artist's potential, you can buy their creation.
+                - this concept can probably be taken even further
+                    - break down a song into its verse/sound bite and let people own those
+                    - generate a fixed number of NFTs per song so that more people can be owners but still benefit from the appreciation of the asset
+                    - owning the NFT could be your ticket to concerts by that artist in the future (social money)
+            - Buying their creation would have verifiable scarcity & uniqueness and even __programmable__ so that royalties are earned by the original artist on re-sales in secondary markets, or that it can't be resold!
+    - ## Programmable Media
+        - Similar to the concept of ETH being programmable money, NFTs would facilitate the transfer of programmable media that not only have some value tied to it but can have certain properties with respect to tracing ownership, earning royalties, how it can be consumed, etc.
+    - ## Role of The "Aggregator"
+        - Q: What about the potential for an aggregator to come along and just be the main interface by which the people interact with all these things? We don't always want to switch platforms, right?
+            - A:  It's too early to tell, but Jesse thinks the nature of the platforms (open source, composable, un-bundled from their media assets) means we'll need to reconsider this is actually useful for us anymore.
+            - Creators will technically be __everywhere__ since they aren't tied down to one. Meaning developers can always leverage this universally accessible media storage and innovate/experiment rapidly with the interfaces they create.
+            - Investors will fund these experiments and communities/niches as opposed to un-differentiated platforms that need to uniquely enter and then dominate a market.

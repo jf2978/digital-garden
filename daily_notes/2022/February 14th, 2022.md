@@ -1,0 +1,6 @@
+- bouncing cool ideas with my brothers, less need for coffee, great workouts, good handball games #gratitude
+- #Reading
+- #Writing
+- #Engineering
+    - familiarize myself a bit more with NextJS, Prisma (Postgres) and the like for my pair programming interview with [[Bonfire]]: [[(Tutorial) Fullstack App With TypeScript, PostgreSQL, Next.js, Prisma, & GraphQL]]
+- #Investing 

@@ -1,0 +1,6 @@
+- my financial cushion, fun "productivity" with Jayson & [[Dinero Digital]] podcast #gratitude
+- #Reading
+    - [[Synapse Protocol]]
+- #Writing
+- #Engineering
+- #Investing

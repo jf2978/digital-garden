@@ -1,0 +1,9 @@
+- watching sunrise, having someone I can shoot the shit with, catchy songs  (+ Spotify unwrapped) #gratitude
+- #Reading
+- #Writing
+- #Engineering
+    - Get on top of MEC work just in case
+    - Home stretch [[Technical Interview]] prep
+    - [[Plaid]] coding interview
+- #Investing
+    - [[Choosing a Polkadot Validator]]

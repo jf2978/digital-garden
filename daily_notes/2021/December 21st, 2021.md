@@ -1,0 +1,8 @@
+- being able to do technical things (build PC, command line, etc), not having a congested nose, peaceful days #gratitude
+- #Reading
+    - need a static ip and refuse to pay shitty ISPs more money just for a networking feature smh -- fortunately I found this article: [[When Your ISP Won't Give You A Static IP]]!
+- #Writing
+- #Engineering
+    - built my PC for [[Running My Own ETH2 Validator Node]]! 
+    - gonna follow along these [docs](https://docs.inlets.dev/tutorial/ssh-tcp-tunnel/) to set up a private SSH server 
+- #Investing

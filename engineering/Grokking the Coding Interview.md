@@ -1,0 +1,10 @@
+- ##  [Link](https://www.educative.io/courses/grokking-the-coding-interview)
+- ## Patterns
+    - ### Sliding Window
+        - Staple problem to solve: find the average of every contiguous subarray of size K in a given array
+        - ![](https://www.educative.io/api/collection/5668639101419520/5671464854355968/page/6658855733821440/image/6543659342233600)
+        - brute force would get us to loop through each element, for each sum and get the average after each inner-iteration-- no bueno time complexity wise (O(N * K) where N = elements in the array, K = size of subarray being computed
+        - Instead we can take __advantage __ of the contiguity fact. In other words, let's leverage the common elements and just compute the next element (end + 1) while taking away the first element (start + 1).
+        - Hence it's like having two fixed indices on the array (window) that synchronously iterate through the array (that slides) and performs some running computation
+    - ### Two Pointers
+    - ### Fast & Slow Pointers

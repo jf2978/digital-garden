@@ -1,0 +1,6 @@
+- ## [Link](https://www.appsdeveloperblog.com/the-first-principle-in-unit-testing/)
+    - **Fast**: does not talk to a network (those are integration tests), and should verify one specific task quickly
+    - **Independent**: unit tests should be totally isolated from other tests and dependencies should be stubbed/mocked so as to only demonstrate/verify the task at hand
+    - Repeatable: pretty self-explanatory
+    - **Self-Validating**: no need to verify anything after a test is run. Tests should themselves assert and give a conclusive pass/fail
+    - **Thorough (or Timely)**: Thorough because we shouldn't just test the happy path. Timely because tests should be written alongside the new feature implementation itself to help ensure confidence with each push

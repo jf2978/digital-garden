@@ -1,0 +1,8 @@
+- swallow cafe work sessions, bk heights (it's such a nice vibe) #gratitude
+- #Reading
+- #Writing
+    - thinking of revamping [[Second Generation (Newsletter)]] post on the lottery, building wealth slowly, real change being more permanent, etc.
+- #Engineering
+    - [[Technical Interview]] prep (wrap up week + goals)
+- #Investing
+    - going to look into using [[Koinly]] for my crypto tax reporting. it's about tax __efficiency__ not tax evasion

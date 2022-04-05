@@ -1,0 +1,5 @@
+- warm for chilly days, spontaneous hangouts / good conversations feat.  phil, aliza and mark, books (I always say I'm gonna read more books and every time I do I remember why I like it) #gratitude
+- #Reading
+- #Writing
+- #Engineering
+- #Investing

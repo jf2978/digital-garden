@@ -1,0 +1,10 @@
+- sleeping in when it's raining, not having final exams, regaining interviewing confidence #gratitude
+- #Reading
+- #Writing
+- #Engineering
+    - [[Substack]] eng. manager interview -- prep using [[SWE (Technical) Behavioral Interview]]
+        - Went well and they already got back to me about next steps!
+    - finish applying to [[Bloomberg]]
+    - More [[Technical Interview]] prep
+- #Investing
+    - keep an eye out for holiday season corrections (mainly crypto, but also stocks)

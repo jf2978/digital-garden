@@ -1,0 +1,6 @@
+- being in what I consider a healthy relationship, puzzles, days where I'm killing it productivity wise (I can't expect them to happen all the time or reject my body's needs for rest, so I'm grateful for when these things align!) #gratitude
+- #Reading
+- #Writing
+    - [[Jeff <> Jesse]]
+- #Engineering
+- #Investing

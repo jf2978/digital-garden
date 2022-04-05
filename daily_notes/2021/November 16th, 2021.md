@@ -1,0 +1,11 @@
+- good heat at home, smell of clean clothes (I'm really running out of things to be grateful for I swear), waking up not feeling like hot garbage #gratitude
+- #Reading
+    - {{[[TODO]]}} make some more progress [[Reserve Whitepaper v1]]
+- #Writing
+    - {{[[TODO]]}} outline my thoughts on [[Web3 x Personal Finance]]
+- #Engineering
+    - {{[[DONE]]}} Less focus on FT work today (really just slack/meetings + code clean up)
+    - {{[[TODO]]}} answer some questions to prep for [[SWE (Technical) Behavioral Interview]]
+- #Investing
+    - {{[[DONE]]}} Update debts in my portfolio
+    - {{[[DONE]]}} buy the dip? But leave some cash for holiday szn correction things

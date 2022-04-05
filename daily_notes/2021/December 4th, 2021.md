@@ -1,0 +1,6 @@
+- fresh baked pastries (godly croissant), weekends (or really just being __able__ to rest), buying the dip #gratitude
+- #Reading
+- #Writing
+- #Engineering
+    - taking a break from leetcode-style [[Technical Interview]] prep - instead may focus a bit on the take-home for [[Range]]
+- #Investing

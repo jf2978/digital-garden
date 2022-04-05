@@ -1,0 +1,7 @@
+- snow in NYC, chill breakfast/lunch, sleeping in #gratitude
+- #Reading
+    - [[Understanding Dialectical and Historical Materialism]]
+- #Writing
+    - deep dive understanding of what [[Union Protocol]] is trying to do
+- #Engineering
+- #Investing

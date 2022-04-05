@@ -1,0 +1,15 @@
+- early mornings w/ coffee, supportive family (generally), heated housing (NYC winter is very much on its way) #gratitude
+- #Investing
+    - looking into [[DeFi]] on stellar -- AMMs were [recently introduced](https://www.stellarx.com/amm/analytics)
+    - I also want to dig a bit more into Ultrastellar. it seems like the stellar ecosystem is young relative to Ethereum w/ respect to this space, but might have the potential to really gain market share if they:
+        - make easier to swap, provide liquidity, etc. to earn yield (vs. Ethereum) -- I think they can do this because the concept of gas & fee structure on Ethereum can be confusing at the start
+        - gain enough traction to have a solid amount of value locked in the ecosystem and attract people looking for alternatives -- lower fees alone will probably attract those chasing $, but there's also the people that just want to try new things or want to support XLM, etc.
+        - aside: Stellar has a pretty huge benefit here because of its stupid low fees, built-in payment path routing and reputation as the sort of compliant-but-still-decentralized cousin to other "layer 1" solutions -- makes me question whether or not we really __need__ different layers if we're willing to not be decentralization purists (but that could also just be crypto twitter)
+- #Engineering
+    - thinking of another cool (and potentially easier) idea to add to my [[Personal Website]] -- I can make my pfp my own pixel art instead of a legitimate doodle lol
+- #Reading
+    - [[SWE Resume Tips (Monica Lent)]]
+    - future reading: [[Aave V3]]
+- #Writing
+    - starting a [[mirror.xyz]] deep dive page as I explore this rabbithole
+    - hopefully the day I actually update my [[Resume]]
