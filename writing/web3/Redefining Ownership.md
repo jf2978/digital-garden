@@ -38,7 +38,7 @@
  - re: [[Understanding Dialectical and Historical Materialism]] -- the ideas presented in techno-socialism need to be updated for the internet age and ask harder questions that have changed quite a bit since this notion of owning the "means of production" really started
     - What this means in the context of the internet age, gig economy, creator economy, etc.
 - Web3 Principles
-    - [[The Ideas We Lose: Funding Scientific Citations through an NFT SplitStream]] -- an exciting potential avenue for me. to explore when citing all of the above
+    - [[The Ideas We Lose - Funding Scientific Citations through an NFT SplitStream]] -- an exciting potential avenue for me. to explore when citing all of the above
     - What does ownership mean -- address Marxist "owning means of production", but ultimately have a short but precise definition of what I mean when I say I own the value I create. It means we don't have to drink the corporate kool aid while also still being able to make friends, learn from each other. That's the beauty of working on cool shit with other people
     - In the current top-down structure of companies, inequities exist with way too many variables a part of that equation. maybe people are racist? maybe extroversion is needed to 
 
@@ -49,7 +49,7 @@
     - this makes me think about the importance of fleshing out [[Redirecting Greed]]  
  - primary sources (data, research papers)
     - [[What we do and don’t know: a meta-analysis of the knowledge gap hypothesis]] -- what does sociological research say about how information spreads throughout a society? the knowledgeable tend to run tight circles and are always at an advantage
-    - [[Self-determination Theory: When Mind Mediates Behavior]] -- meaningful/fast spread of information beyond the rigid infrastructure (re: government programs, etc.) we set up in our societies requires two-way participation -- otherwise this redefinition, and will fall on deaf ears, or worse, in an echo chamber of the self-fulfilling intellectualization that is rampant within social media politics today.
+    - [[Self-determination Theory - When Mind Mediates Behavior]] -- meaningful/fast spread of information beyond the rigid infrastructure (re: government programs, etc.) we set up in our societies requires two-way participation -- otherwise this redefinition, and will fall on deaf ears, or worse, in an echo chamber of the self-fulfilling intellectualization that is rampant within social media politics today.
  	   - how do I not come across like a hypocrite though? What am I doing outside of writing about the "working class"?
  	   - See if QB would be down to accept crypto payments????
  		   - Long shot, but that would be dope

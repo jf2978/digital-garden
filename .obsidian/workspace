@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "4039f0f41bcafb5d",
+        "id": "55b6966b7ba031fe",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "glossary/asset ownership.md",
+            "file": "reading_and_listening/internet_content/The Ownership Economy.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "glossary/asset ownership.md",
+                "file": "reading_and_listening/internet_content/The Ownership Economy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4039f0f41bcafb5d",
+  "active": "55b6966b7ba031fe",
   "lastOpenFiles": [
-    "glossary/asset ownership.md",
-    "glossary/administrator.md",
-    "My Superpower.md",
-    "Koinly.md",
-    "writing/What Do I Want In A Job?.md",
-    "_private/Becoming An Accredited Investor.md",
-    "conversations/Jeff <> Jesse.md",
-    "glossary/Investment Counsel.md",
-    "Regulation of Investment Advisers, Including State-Registered And Federal Covered Advisers.md",
-    "writing/web3/Redefining Ownership.md"
+    "reading_and_listening/internet_content/The Ownership Economy.md",
+    "Todoist.md",
+    "reading_and_listening/internet_content/To Tell Someone They’re Wrong, First Tell Them They’re Right.md",
+    "writing/reflection/Thank You Letters.md",
+    "Terra vs. SEC.md",
+    "Terra.md",
+    "Mondragon.md",
+    "DONE.md",
+    "reading_and_listening/internet_content/The attention economy - what it is, what it’s doing to you.md",
+    "The Beacon Chain Ethereum 2.0 explainer you need to read first.md"
   ]
 }

@@ -1,7 +1,7 @@
 - crypto shenanigans (I'm a little addicted but it's fun!), being able to code (sometimes I forget I'm just writing color-coded words that affect tons of people), fresh air #gratitude
 - #Reading
     - read the lawsuit summary of [[Terra vs. SEC]]
-    - found via LinkedIn outreach -> [[Rate Limiting Nullifier: A spam-protection mechanism for anonymous environments]]
+    - found via LinkedIn outreach -> [[Rate Limiting Nullifier - A spam-protection mechanism for anonymous environments]]
     - [[Ontological Humility]]
 - #Writing
     - draft up a presentation for [[QB Convene]] ! I can totally help Questies with financial planning, mention [[Second Generation (Newsletter)]]

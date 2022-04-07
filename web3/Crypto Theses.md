@@ -14,7 +14,7 @@ First take answer: shorter entertainment bites, social connection embedded into 
 
 Digital social connection will be more seamless than in-person meet ups. 
 
-I do still err on the side of caution with respect to how "good" this is for people in general (remote work is already having us wake up to the existential pain of what work feels like without others).  **TBD**: more to unpack and think about here especially based what I learn and read from research papers like [[The Digital Self: Through the Looking Glass of Telecopresent Others]]
+I do still err on the side of caution with respect to how "good" this is for people in general (remote work is already having us wake up to the existential pain of what work feels like without others).  **TBD**: more to unpack and think about here especially based what I learn and read from research papers like [[The Digital Self - Through the Looking Glass of Telecopresent Others]]
 
 ### An Alternative to the "American Dream"
 Thinking about the digital asset space from the perspective of wealth building (as opposed to just price action) can be helpful in cutting through the financialization noise. 

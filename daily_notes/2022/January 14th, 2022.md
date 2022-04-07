@@ -1,6 +1,6 @@
 - having a roof over my head, being privileged enough to have "first-world" problems, being excited about what's to come career wise (feat. digging into web3 and hopefully being able to go full time with it) #gratitude
 - #Reading
-    - re-read [[The Digital Self: Through the Looking Glass of Telecopresent Others]]
+    - re-read [[The Digital Self - Through the Looking Glass of Telecopresent Others]]
 - #Writing
     - draft personal business model for [[Running My Own ETH2 Validator Node]]
 - #Engineering

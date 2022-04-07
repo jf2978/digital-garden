@@ -1,7 +1,7 @@
 - started using Roam! Watched some of the intro videos, seems cool, going to try to import some of my thoughts from notion into this instead and see where that takes me
 - #Reading
     - [[Reserve]] white paper (2019 version)
-    - [[The Digital Self: Through the Looking Glass of Telecopresent Others]]
+    - [[The Digital Self - Through the Looking Glass of Telecopresent Others]]
 - #Writing
     - nothing new, but importing over existing [[Second Generation (Newsletter)]] pieces over to this
     - cool idea Michelle brought up: talk about [[Redefining Ownership]] from the perspective of a (soon-to-be-former) Mailchimp employee on [[mirror.xyz]]

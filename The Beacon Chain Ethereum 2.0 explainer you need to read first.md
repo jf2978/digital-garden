@@ -1,6 +1,6 @@
-- ## [Link](https://ethos.dev/beacon-chain/)
-- ## Notes
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fsecond-jeff%2FYC_Ld1fxi8.png?alt=media&token=c2df5775-8bd1-44d0-9937-30258615b9f4)
+## [Link](https://ethos.dev/beacon-chain/)
+## Notes
+ - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fsecond-jeff%2FYC_Ld1fxi8.png?alt=media&token=c2df5775-8bd1-44d0-9937-30258615b9f4)
 - First up, how scaling works in a typical system 
     - As a distributed system scales it has one of two choices: scale horizontally (more nodes) or vertically (more powerful nodes). In the spirit of decentralization, the choice here is for them to scale horizontally
     - The average person won't be able to acquire specialized hardware, so the result is centralization around either wealthier individuals or pooled resources.

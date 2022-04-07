@@ -1,9 +1,9 @@
 - having parents that are still alive and decently healthy, my own health and wellbeing (feat. meditation), having a powerful network of people that want to help me #gratitude
 - #Reading
     - [[What we do and don’t know: a meta-analysis of the knowledge gap hypothesis]]
-    - [[Progressive Decentralization: A Playbook for Building Crypto Applications]]
-    - [[The Digital Self: Through the Looking Glass of Telecopresent Others]]
-    - [[Self-determination Theory: When Mind Mediates Behavior]]
+    - [[Progressive Decentralization - A Playbook for Building Crypto Applications]]
+    - [[The Digital Self - Through the Looking Glass of Telecopresent Others]]
+    - [[Self-determination Theory - When Mind Mediates Behavior]]
 - #Writing
     - [[Jeff <> Jesse]] (and related reading above)
 - #Engineering

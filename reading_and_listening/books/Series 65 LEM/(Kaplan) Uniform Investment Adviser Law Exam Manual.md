@@ -18,4 +18,4 @@
  - 7. Take the full practice exam
  - 8. Take the mastery exam
 
-[[Part 1: Laws, Regulation and Guidelines, Including Prohibitions on Unethical Business Practices]]
+[[(Part 1) Laws, Regulation and Guidelines, Including Prohibitions on Unethical Business Practices]]

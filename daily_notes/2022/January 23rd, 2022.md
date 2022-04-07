@@ -2,7 +2,7 @@
 - #Reading
     - [[Mental Models]]
     - [[Blockchain Can Wrest the Internet From Corporations' Grasps]]
-    - [[Past, Present, Future: From Co-ops to Cryptonetworks]]
+    - [[From Co-ops to Cryptonetworks]]
     - [[Analogies, the Big Picture, and Considerations for Regulating Crypto]]
     - [[The Meaning of Decentralization]]
     - [[Transcending the Differences Between Individualism & Collectivism]]
